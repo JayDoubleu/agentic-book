@@ -1,5 +1,15 @@
 # Second Draft Revision Plan
 
+## Status Update
+
+**Original Plan:** Expand from 36,233 to 50,000-55,000 words (+14-19k words)
+**Current Reality:** Book completed at 52,700 words and marked publication-ready
+**Rev2 Focus:** Incorporate Gemini feedback for deepening insights rather than length expansion
+
+**Note:** This plan has been superseded by the Gemini-informed Rev2 strategy. See:
+- `08-rev2-revision-plan.md` - Updated strategy based on Gemini feedback
+- `09-rev2-action-plan.md` - Specific implementation steps
+
 ## Overview
 
 Target: Expand from 36,233 to 50,000-55,000 words (+14-19k words)
