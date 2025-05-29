@@ -1,0 +1,30 @@
+# Git files
+.git
+.gitignore
+
+# Output files
+output/
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Node modules (if any)
+node_modules/
+
+# Documentation that's not needed for build
+notes/
+
+# Pre-commit
+.pre-commit-config.yaml

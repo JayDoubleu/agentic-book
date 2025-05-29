@@ -1,0 +1,6 @@
+# Hadolint configuration for The Human Algorithm book project
+
+# Ignore specific rules
+ignored:
+  - DL3041  # Specify version with dnf install (not practical for all packages)
+  - DL3008  # Pin versions in apt-get install (similar to DL3041)

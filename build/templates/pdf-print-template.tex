@@ -1,0 +1,200 @@
+\documentclass[$if(fontsize)$$fontsize$,$endif$$if(papersize)$$papersize$paper,$endif$oneside,$for(classoption)$$classoption$$sep$,$endfor$]{$documentclass$}
+
+% Disable all automatic numbering EARLY
+\setcounter{secnumdepth}{-1}
+
+% Packages
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+
+% XeLaTeX/LuaLaTeX font selection
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[$if(fontenc)$$fontenc$$else$T1$endif$]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+
+% Print geometry - 6x9 book format with symmetric margins
+\usepackage[paperwidth=6in,paperheight=9in,margin=0.75in]{geometry}
+
+% Line spacing
+$if(linestretch)$
+\usepackage{setspace}
+\setstretch{$linestretch$}
+$endif$
+
+% Hyperlinks - black for print
+\usepackage{hyperref}
+\hypersetup{
+  unicode=true,
+  $if(title-meta)$
+  pdftitle={$title-meta$},
+  $endif$
+  $if(author-meta)$
+  pdfauthor={$author-meta$},
+  $endif$
+  $if(subtitle)$
+  pdfsubject={$subtitle$},
+  $endif$
+  $if(keywords)$
+  pdfkeywords={$for(keywords)$$keywords$$sep$; $endfor$},
+  $endif$
+  colorlinks=true,
+  linkcolor=black,
+  citecolor=black,
+  urlcolor=black,
+  breaklinks=true,
+  hidelinks
+}
+\urlstyle{same}  % don't use monospace font for urls
+
+% Images
+\usepackage{graphicx,grffile}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+
+% Lists
+\usepackage{enumitem}
+\setlist[itemize]{leftmargin=*}
+\setlist[enumerate]{leftmargin=*}
+
+% Code listings
+\usepackage{fancyvrb}
+\VerbatimFootnotes
+\DefineVerbatimEnvironment{Highlighting}{Verbatim}{commandchars=\\\{\}}
+
+% Tables
+\usepackage{longtable,booktabs,array}
+\usepackage{multirow}
+
+% Prevent overfull lines
+\setlength{\emergencystretch}{3em}
+
+% Tightlist
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+% Header and footer
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead{}
+\fancyhead[LE,RO]{\textit{The Human Algorithm}}
+\fancyhead[RE,LO]{\leftmark}
+\fancyfoot{}
+\fancyfoot[C]{\thepage}
+
+% Chapter formatting
+\usepackage{titlesec}
+
+\titleformat{\chapter}[display]
+  {\normalfont\huge\bfseries}
+  {}
+  {20pt}
+  {\Huge}
+\titlespacing*{\chapter}{0pt}{50pt}{40pt}
+
+% Prevent empty pages before chapters
+\let\cleardoublepage\clearpage
+
+% Part formatting
+\titleformat{\part}[display]
+  {\normalfont\Huge\bfseries\centering}
+  {}
+  {20pt}
+  {\Huge}
+
+% Title
+$if(title)$
+\title{$title$$if(thanks)$\thanks{$thanks$}$endif$}
+$endif$
+$if(subtitle)$
+\usepackage{etoolbox}
+\makeatletter
+\providecommand{\subtitle}[1]{%
+  \apptocmd{\@title}{\par\large #1 \par}{}{}
+}
+\makeatother
+\subtitle{$subtitle$}
+$endif$
+$if(author)$
+\author{$for(author)$$author$$sep$ \and $endfor$}
+$endif$
+\date{$date$}
+
+\begin{document}
+$if(title)$
+\maketitle
+
+% Copyright page
+\newpage
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+\textit{The Human Algorithm: How Artificial Intelligence Reveals Who We Really Are}
+
+Copyright © 2025 by Claude Code and Claude Opus 4
+
+Concept \& Creative Direction: Jay W
+
+This work is licensed under a Creative Commons Attribution 4.0 International License.
+
+You are free to share and adapt this material for any purpose, even commercially, under the following terms: Attribution - You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+
+This book is a collaborative work between human and AI, exploring the intersection of artificial intelligence and human nature.
+
+Print Edition
+\end{center}
+\vspace*{\fill}
+\newpage
+$endif$
+
+% Front matter
+\frontmatter
+
+$if(abstract)$
+\begin{abstract}
+$abstract$
+\end{abstract}
+$endif$
+
+$for(include-before)$
+$include-before$
+$endfor$
+
+$if(toc)$
+{
+\setcounter{tocdepth}{$toc-depth$}
+\tableofcontents
+}
+$endif$
+$if(lot)$
+\listoftables
+$endif$
+$if(lof)$
+\listoffigures
+$endif$
+
+% Main matter
+\mainmatter
+
+$body$
+
+% Back matter
+\backmatter
+
+$for(include-after)$
+$include-after$
+$endfor$
+
+\end{document}

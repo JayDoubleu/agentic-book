@@ -1,0 +1,32 @@
+# Gitlint configuration for The Human Algorithm book project
+
+[general]
+# Ignore certain commits
+ignore=merge,revert,fixup,squash
+
+# Enable specific rules
+contrib=contrib-title-conventional-commits
+
+[title-max-length]
+line-length=72
+
+[title-min-length]
+min-length=10
+
+[title-must-not-contain-word]
+# Avoid generic words
+words=wip,hack,debug
+
+[body-max-line-length]
+line-length=80
+
+[body-min-length]
+min-length=20
+
+# Allow "Co-Authored-By" for Claude commits
+[ignore-by-body]
+regex=Co-Authored-By
+
+# Custom rules for conventional commits
+[contrib-title-conventional-commits]
+types=feat,fix,docs,style,refactor,test,chore,build

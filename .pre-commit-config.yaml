@@ -1,0 +1,68 @@
+# Pre-commit hooks for The Human Algorithm book project
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.5.0
+    hooks:
+      # Remove trailing whitespace
+      - id: trailing-whitespace
+        files: \.(md|txt|yml|yaml|sh|lua|tex|css|html)$
+
+      # Ensure files end with a newline
+      - id: end-of-file-fixer
+        files: \.(md|txt|yml|yaml|sh|lua|tex|css|html)$
+
+      # Check for merge conflicts
+      - id: check-merge-conflict
+
+      # Fix mixed line endings
+      - id: mixed-line-ending
+        args: ['--fix=lf']
+        files: \.(md|txt|yml|yaml|sh|lua|tex|css|html)$
+
+      # Check YAML syntax
+      - id: check-yaml
+
+      # Prevent large files
+      - id: check-added-large-files
+        args: ['--maxkb=5000']
+
+      # Check JSON syntax
+      - id: check-json
+        files: \.json$
+
+      # Check for broken symlinks
+      - id: check-symlinks
+
+      # Check executables have shebangs
+      - id: check-executables-have-shebangs
+
+      # Detect private keys
+      - id: detect-private-key
+
+  # Markdown specific checks
+  - repo: https://github.com/igorshubovych/markdownlint-cli
+    rev: v0.39.0
+    hooks:
+      - id: markdownlint
+        args: ['--fix']
+        files: \.md$
+
+  # Shell script checks
+  - repo: https://github.com/shellcheck-py/shellcheck-py
+    rev: v0.9.0.6
+    hooks:
+      - id: shellcheck
+        files: \.(sh|bash)$
+
+  # Dockerfile linting
+  - repo: https://github.com/hadolint/hadolint
+    rev: v2.12.0
+    hooks:
+      - id: hadolint-docker
+        files: Dockerfile
+
+  # Git commit message linting
+  - repo: https://github.com/jorisroovers/gitlint
+    rev: v0.19.1
+    hooks:
+      - id: gitlint
