@@ -70,5 +70,5 @@ For specific citations and detailed analysis, see the complete fact-checking doc
 
 ---
 
-*Last updated: [Current Date]*
+*Last updated: May 29, 2025*
 *Fact-checking performed by: Gemini 2.5 Pro analysis*
