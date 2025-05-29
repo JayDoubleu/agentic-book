@@ -170,6 +170,10 @@ Institute a personal practice:
 
 5. If you could design grounding infrastructure for human communication, what would it look like? How would it balance truth-seeking with social cohesion?
 
+## Fact-Checking Note
+
+*The claim about "studies show people read more during economic downturns" (mentioned by the fictional character James) reflects a commonly cited but under-researched assertion. While some data suggests increased library usage during recessions, the specific relationship between economic conditions and reading habits requires more rigorous study. This example illustrates how we often share "research-backed" claims without specific citations - the very grounding problem this chapter explores.*
+
 ## Summary
 
 The grounding problem reveals a stark double standard: we've built elaborate verification infrastructure for AI while accepting ungrounded human communication as normal. This isn't accidental - it reflects deep tensions between truth-seeking and social cohesion, between verification and velocity, between accuracy and authority.
