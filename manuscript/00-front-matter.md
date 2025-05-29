@@ -17,6 +17,8 @@ This experimental approach emerged from a conversation exploring whether AI-gene
 
 **Important Notice:** This book is intended for entertainment and experimental purposes only. It should not be treated as an authoritative source of information. All claims and insights presented should be independently verified. Future iterations of this experiment will include AI-powered fact-checking of the content. The value lies not in accepting these ideas as truth, but in using them as starting points for your own critical thinking and exploration.
 
+**Note on Sources:** This book combines verified research findings with illustrative examples. Where specific studies are cited, full references are provided. Some researcher quotes and case studies are constructed for illustration purposes to clarify concepts, following the experimental nature of this AI-generated work.
+
 ---
 
 ### License

@@ -334,3 +334,13 @@ The choice isn't between biased and unbiased - it's between unconscious bias and
 The question isn't whether you're biased - you are. The question is: what will you do once you see it?
 
 But bias is just one type of hidden pattern shaping our behavior. Just as AI processes sentiment and emotion as data patterns rather than feelings, our own emotions might be more mechanical than we'd like to admit. In the next chapter, we'll explore how understanding emotions as information tokens rather than mystical experiences can transform how we process, express, and respond to feelings - both our own and others'.
+
+---
+
+## References
+
+Bertrand, M., & Mullainathan, S. (2004). Are Emily and Greg more employable than Lakisha and Jamal? A field experiment on labor market discrimination. American Economic Review, 94(4), 991-1013.
+
+Buolamwini, J., & Gebru, T. (2018). Gender shades: Intersectional accuracy disparities in commercial gender classification. Proceedings of Machine Learning Research, 81, 77-91.
+
+Obermeyer, Z., Powers, B., Vogeli, C., & Mullainathan, S. (2019). Dissecting racial bias in an algorithm used to manage the health of populations. Science, 366(6464), 447-453.

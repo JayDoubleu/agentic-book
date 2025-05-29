@@ -76,7 +76,7 @@ Each breakthrough created platforms for faster breakthroughs. Kenji's personal r
 
 Unlike AI, human recursive self-improvement faces biological constraints:
 
-**Processing Speed:** Neural signals max out at ~120 m/s
+**Processing Speed:** Neural signals range from 0.5-120 m/s (fastest in myelinated axons)
 **Memory Capacity:** ~86 billion neurons set a storage limit
 **Energy Budget:** Brain uses 20% of body's energy
 **Sleep Requirements:** Can't optimize 24/7
