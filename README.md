@@ -46,7 +46,9 @@ Start with the [Introduction](manuscript/01-introduction.md) to understand the b
 
 ```
 /agentic-book/
-├── book/                      # Generated book files (HTML, PDF)
+├── book/                      # Generated book files (HTML, PDF, EPUB)
+│   ├── epub/                  # EPUB version
+│   │   └── the-human-algorithm.epub
 │   ├── html/                  # HTML version
 │   │   └── the-human-algorithm.html
 │   └── pdf/                   # PDF versions
@@ -61,7 +63,8 @@ Start with the [Introduction](manuscript/01-introduction.md) to understand the b
 │       ├── book.css           # HTML styling
 │       ├── html-template.html # HTML template
 │       ├── pdf-digital-template.tex
-│       └── pdf-print-template.tex
+│       ├── pdf-print-template.tex
+│       └── epub.css           # EPUB styling
 ├── manuscript/                # Book chapters in markdown
 │   ├── 00-front-matter.md     # Title, ToC, license
 │   ├── 01-introduction.md     # Introduction: The Mirror We're Building
@@ -149,11 +152,12 @@ Start with the [Introduction](manuscript/01-introduction.md) to understand the b
 The book can be built into multiple formats using the included build system:
 
 ```bash
-# Build all formats (HTML and both PDF versions)
+# Build all formats (HTML, EPUB, and both PDF versions)
 make all
 
 # Build specific formats
 make html
+make epub
 make pdf-digital
 make pdf-print
 
@@ -169,6 +173,7 @@ Requirements: Pandoc, XeLaTeX, and the fonts specified in the templates.
 ## Download the Book
 
 - 📖 [Read Online (HTML)](book/html/the-human-algorithm.html)
+- 📚 [EPUB](book/epub/the-human-algorithm.epub)
 - 📱 [Digital PDF](book/pdf/the-human-algorithm-digital.pdf)
 - 🖨️ [Print PDF](book/pdf/the-human-algorithm-print.pdf)
 
