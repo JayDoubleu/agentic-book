@@ -1,0 +1,185 @@
+/* EPUB CSS for The Human Algorithm */
+
+/* Base styles */
+body {
+    font-family: Georgia, serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+    line-height: 1.2;
+}
+
+h1 {
+    font-size: 2em;
+    text-align: center;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+h3 {
+    font-size: 1.2em;
+}
+
+/* Paragraphs */
+p {
+    text-indent: 1.5em;
+    margin: 0 0 0.5em 0;
+}
+
+/* First paragraph after headings should not be indented */
+h1 + p, h2 + p, h3 + p, h4 + p, h5 + p, h6 + p {
+    text-indent: 0;
+}
+
+/* Lists */
+ul, ol {
+    margin: 1em 0 1em 2em;
+}
+
+li {
+    margin-bottom: 0.5em;
+}
+
+/* Blockquotes */
+blockquote {
+    margin: 1em 2em;
+    font-style: italic;
+}
+
+/* Code */
+code {
+    font-family: "Courier New", Courier, monospace;
+    font-size: 0.9em;
+    background-color: #f4f4f4;
+    padding: 0.1em 0.3em;
+}
+
+pre {
+    font-family: "Courier New", Courier, monospace;
+    font-size: 0.9em;
+    background-color: #f4f4f4;
+    padding: 1em;
+    overflow-x: auto;
+    margin: 1em 0;
+}
+
+/* Links */
+a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Images */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 1em auto;
+}
+
+/* Tables */
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 1em 0;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 0.5em;
+    text-align: left;
+}
+
+th {
+    background-color: #f4f4f4;
+    font-weight: bold;
+}
+
+/* Page breaks */
+.page-break {
+    page-break-before: always;
+}
+
+/* Chapter formatting */
+.chapter {
+    page-break-before: always;
+}
+
+.chapter-title {
+    text-align: center;
+    margin-bottom: 2em;
+}
+
+/* Subtitle */
+.subtitle {
+    text-align: center;
+    font-size: 1.2em;
+    font-style: italic;
+    margin-bottom: 2em;
+}
+
+/* Author */
+.author {
+    text-align: center;
+    font-size: 1.1em;
+    margin-bottom: 3em;
+}
+
+/* TOC */
+nav#TOC ul {
+    list-style-type: none !important;
+    list-style: none !important;
+    margin-left: 0;
+    padding-left: 0;
+}
+
+nav#TOC > ul {
+    margin-left: 0;
+    padding-left: 0;
+}
+
+nav#TOC ul ul {
+    margin-left: 1.5em;
+}
+
+nav#TOC li {
+    margin-bottom: 0.3em;
+    list-style-type: none !important;
+    list-style: none !important;
+}
+
+nav#TOC li::before {
+    content: none !important;
+}
+
+/* Additional selectors for different EPUB readers */
+nav[epub|type~="toc"] ol,
+nav[epub|type~="toc"] ul {
+    list-style-type: none !important;
+}
+
+/* Reflection questions */
+.reflection-questions {
+    margin-top: 2em;
+    padding: 1em;
+    background-color: #f9f9f9;
+    border-left: 3px solid #0066cc;
+}
+
+.reflection-questions h2,
+.reflection-questions h3 {
+    margin-top: 0;
+}

@@ -2,7 +2,7 @@
 
 # Default target
 .PHONY: all
-all: html pdf-digital pdf-print
+all: html pdf-digital pdf-print epub
 
 # Build HTML version
 .PHONY: html
@@ -21,6 +21,12 @@ pdf-digital:
 pdf-print:
 	@echo "Building PDF print version..."
 	@bash build/scripts/build.sh pdf-print
+
+# Build EPUB version
+.PHONY: epub
+epub:
+	@echo "Building EPUB version..."
+	@bash build/scripts/build.sh epub
 
 # Build all PDF versions
 .PHONY: pdf
@@ -54,11 +60,12 @@ help:
 	@echo "The Human Algorithm - Build System"
 	@echo ""
 	@echo "Available targets:"
-	@echo "  make all         - Build all formats (HTML, PDF digital, PDF print)"
+	@echo "  make all         - Build all formats (HTML, PDF digital, PDF print, EPUB)"
 	@echo "  make html        - Build HTML version only"
 	@echo "  make pdf-digital - Build PDF digital version only"
 	@echo "  make pdf-print   - Build PDF print version only"
 	@echo "  make pdf         - Build both PDF versions"
+	@echo "  make epub        - Build EPUB version only"
 	@echo "  make clean       - Clean book directory"
 	@echo "  make watch       - Watch for changes and rebuild automatically"
 	@echo "  make dist        - Create distribution archive"
