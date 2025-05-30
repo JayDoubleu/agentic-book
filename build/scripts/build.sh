@@ -112,11 +112,30 @@ build_pdf_print() {
     print_success "PDF (print) version built successfully"
 }
 
+# Function to build EPUB version
+build_epub() {
+    print_status "Building EPUB version..."
+
+    pandoc \
+        --toc \
+        --toc-depth=3 \
+        --metadata title="$TITLE" \
+        --metadata subtitle="$SUBTITLE" \
+        --metadata author="$AUTHOR" \
+        --metadata date="$DATE" \
+        --lua-filter="$SCRIPT_DIR/remove-emoji.lua" \
+        --css="$TEMPLATE_DIR/epub.css" \
+        --output="$BOOK_DIR/epub/the-human-algorithm.epub" \
+        "$MANUSCRIPT_DIR"/*.md
+
+    print_success "EPUB version built successfully"
+}
+
 # Function to clean book directory
 clean() {
     print_status "Cleaning book directory..."
     rm -rf "${BOOK_DIR:?}"/*
-    mkdir -p "$BOOK_DIR"/{html,pdf}
+    mkdir -p "$BOOK_DIR"/{html,pdf,epub}
     print_success "Book directory cleaned"
 }
 
@@ -127,7 +146,7 @@ main() {
     echo ""
 
     # Create book directories if they don't exist
-    mkdir -p "$BOOK_DIR"/{html,pdf}
+    mkdir -p "$BOOK_DIR"/{html,pdf,epub}
 
     # Parse command line arguments
     case "${1:-all}" in
@@ -140,6 +159,9 @@ main() {
         pdf-print)
             build_pdf_print
             ;;
+        epub)
+            build_epub
+            ;;
         clean)
             clean
             ;;
@@ -147,12 +169,14 @@ main() {
             build_html
             build_pdf_digital
             build_pdf_print
+            build_epub
             ;;
         *)
-            echo "Usage: $0 {html|pdf-digital|pdf-print|clean|all}"
+            echo "Usage: $0 {html|pdf-digital|pdf-print|epub|clean|all}"
             echo "  html        - Build HTML version only"
             echo "  pdf-digital - Build PDF digital version only"
             echo "  pdf-print   - Build PDF print version only"
+            echo "  epub        - Build EPUB version only"
             echo "  clean       - Clean book directory"
             echo "  all         - Build all versions (default)"
             exit 1
