@@ -57,6 +57,7 @@ make
 make html
 make pdf-digital
 make pdf-print
+make epub
 
 # Clean output directory
 make clean
@@ -75,6 +76,7 @@ bash build/scripts/build.sh
 bash build/scripts/build.sh html
 bash build/scripts/build.sh pdf-digital
 bash build/scripts/build.sh pdf-print
+bash build/scripts/build.sh epub
 
 # Clean output directory
 bash build/scripts/build.sh clean
@@ -86,6 +88,8 @@ All generated files are placed in the `output/` directory:
 
 ```
 output/
+├── epub/
+│   └── the-human-algorithm.epub
 ├── html/
 │   └── the-human-algorithm.html
 └── pdf/
@@ -116,6 +120,15 @@ output/
 - Proper margins for binding
 - Chapters start on odd pages
 - Professional book layout
+
+### EPUB Version
+
+- Standard EPUB 3 format
+- Compatible with all major e-readers
+- Reflowable text for different screen sizes
+- Embedded metadata (title, author, description)
+- Structured table of contents
+- Clean, readable formatting
 
 ## Customization
 
@@ -184,6 +197,7 @@ docker run --rm -v $(pwd):/book human-algorithm-builder make all
 docker run --rm -v $(pwd):/book human-algorithm-builder make html
 docker run --rm -v $(pwd):/book human-algorithm-builder make pdf-digital
 docker run --rm -v $(pwd):/book human-algorithm-builder make pdf-print
+docker run --rm -v $(pwd):/book human-algorithm-builder make epub
 
 # Clean output
 docker run --rm -v $(pwd):/book human-algorithm-builder make clean
