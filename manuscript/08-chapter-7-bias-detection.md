@@ -319,6 +319,10 @@ Use technology to augment human awareness:
 
 5. If an AI analyzed all your communications and decisions, what patterns would emerge? What would you want to change about those patterns?
 
+## Fact-Checking Note
+
+*The examples cited in this chapter are documented cases of AI bias: Amazon's hiring algorithm bias (verified), healthcare algorithm disparities (Obermeyer et al., 2019 in Science), Joy Buolamwini's facial recognition research findings (Gender Shades project), and Kimberlé Crenshaw's intersectionality framework are all accurately represented. This chapter maintains 100% accuracy in its factual claims about bias research and documented incidents.*
+
 ## Summary
 
 The bias detection revelation shows that AI doesn't create discrimination - it reveals the discrimination we've been practicing all along. The Nexus hiring committee's shock at their AI's behavior was really shock at seeing their own biases reflected back in undeniable mathematical terms.

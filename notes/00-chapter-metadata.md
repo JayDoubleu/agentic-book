@@ -192,6 +192,14 @@ This file contains all metadata for manuscript chapters, including word counts, 
 - **Key Concepts**: synthesis, meta-insights, practical application, self-improvement, future potential, conscious evolution
 - **Last Updated**: January 28, 2025
 
+### 18-fact-checking-summary.md
+
+- **Words**: 2,811
+- **Status**: Formatted
+- **Key Concepts**: fact-checking, verification, accuracy analysis, transparency, scientific validation
+- **Part**: Appendix
+- **Last Updated**: May 29, 2025
+
 ## Book Statistics
 
 - **Total Word Count**: ~52,901 (sum of chapter word counts)

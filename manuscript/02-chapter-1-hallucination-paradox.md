@@ -141,6 +141,20 @@ Use AI hallucinations as a mirror for your own:
 - Consider why we pathologize in machines what we normalize in humans
 - Use AI as a tool for developing metacognitive awareness
 
+## Fact-Checking Note
+
+*The dinner party conversation in this chapter deliberately includes several well-known myths to illustrate the book's central point about human "hallucination." For transparency:*
+
+❌ **"10% of our brain"** - Debunked myth; neuroimaging shows we use virtually all our brain  
+❌ **"Einstein used 20% of his brain"** - No scientific basis; extension of the 10% myth  
+❌ **"Goldfish have 3-second memories"** - False; goldfish can remember for months  
+⚠️ **"Tomatoes/lead plates"** - Partially true; wealthy Europeans did avoid tomatoes due to lead leaching from pewter dishes  
+❌ **"Tongue taste map"** - Debunked; all taste buds are distributed throughout the tongue  
+❌ **"Lightning never strikes twice"** - False; tall structures are frequently struck multiple times  
+⚠️ **"Space pen story"** - Oversimplified; the pen was privately developed, not by NASA
+
+*These intentional inaccuracies serve to demonstrate how confidently we share unverified information - the core theme of this chapter. For complete fact-checking analysis, see the Fact-Checking Summary.*
+
 ## Reflection Questions
 
 1. Think about a "fact" you've shared recently with complete confidence. Can you trace exactly where you learned it? How certain are you that it's actually true?

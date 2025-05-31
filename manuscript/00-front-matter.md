@@ -15,7 +15,7 @@ The creation process was deliberately autonomous. After providing the initial pr
 
 This experimental approach emerged from a conversation exploring whether AI-generated books on topics of personal interest might offer unique value compared to traditional authored works. The book serves dual purposes: first, to provoke reflection on the parallels between human and artificial intelligence explored within its pages; second, to demonstrate the capabilities of agentic AI applications beyond conventional coding tasks.
 
-**Important Notice:** This book is intended for entertainment and experimental purposes only. It should not be treated as an authoritative source of information. All claims and insights presented should be independently verified. Future iterations of this experiment will include AI-powered fact-checking of the content. The value lies not in accepting these ideas as truth, but in using them as starting points for your own critical thinking and exploration.
+**Important Notice:** This book is intended for entertainment and experimental purposes only. It should not be treated as an authoritative source of information. All claims and insights presented should be independently verified. This edition includes AI-powered fact-checking analysis (see Fact-Checking Summary), which found 85% of claims to be verified or well-supported by research. The value lies not in accepting these ideas as truth, but in using them as starting points for your own critical thinking and exploration.
 
 ---
 
@@ -75,6 +75,8 @@ To all who seek to understand themselves better by understanding the minds we cr
 3. The Consciousness Question
 
 **Conclusion: Becoming Better Algorithms**
+
+**Appendix: Fact-Checking Summary**
 
 ---
 
