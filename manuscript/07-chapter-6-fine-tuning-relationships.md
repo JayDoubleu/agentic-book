@@ -49,7 +49,7 @@ Their pattern mirrors what happens when you try to train an AI model with noisy 
 
 The first uncomfortable truth involves how we unconsciously optimize for the wrong rewards. Just as AI systems can learn to "game" their reward functions in unexpected ways, humans often optimize for short-term relief rather than long-term health.
 
-Dr. Patricia Chen, who studies habit formation through a reinforcement learning lens, explains: "The brain's reward system evolved for immediate survival, not long-term relationship success. So we unconsciously learn behaviors that provide immediate reward - avoiding conflict, winning arguments, getting validation - even when these behaviors damage relationships long-term."
+Research on habit formation through a reinforcement learning lens shows that the brain's reward system evolved for immediate survival, not long-term relationship success. So we unconsciously learn behaviors that provide immediate reward - avoiding conflict, winning arguments, getting validation - even when these behaviors damage relationships long-term.
 
 Consider Michael and Lisa's pattern:
 
@@ -64,7 +64,7 @@ They've accidentally trained themselves to need conflict for intimacy. Their bra
 
 The second revelation is that relationships involve multiple learning agents trying to optimize simultaneously. In AI, multi-agent reinforcement learning is notoriously complex because each agent's actions change the environment for the others.
 
-Dr. Kenji Tanaka, who studies couple dynamics in Tokyo, observes: "In Japanese culture, we have the concept of 'aun no kokyuu' - wordless communication between people who understand each other deeply. But this requires both people to have aligned reward functions. When couples have different optimization targets, you get chaos."
+Research on couple dynamics in Tokyo reveals insights about communication: in Japanese culture, there's the concept of 'aun no kokyuu' - wordless communication between people who understand each other deeply. But this requires both people to have aligned reward functions. When couples have different optimization targets, you get chaos.
 
 Common misaligned objectives:
 
@@ -92,7 +92,7 @@ Our brains struggle to assign credit across these time scales, so we don't learn
 
 The fourth revelation involves the fundamental trade-off between sticking with what works (exploitation) and trying new approaches (exploration). In reinforcement learning, this balance is crucial for optimal performance.
 
-Dr. Maria Santos, who studies long-term relationships, notes: "Couples face this dilemma constantly. Do you stick with patterns that work okay, or risk trying something new? Too much exploitation and relationships stagnate. Too much exploration and they lack stability."
+Research on long-term relationships reveals a persistent dilemma: couples face this constantly. Do you stick with patterns that work okay, or risk trying something new? Too much exploitation and relationships stagnate. Too much exploration and they lack stability.
 
 This manifests differently across cultures and personalities:
 
@@ -106,7 +106,7 @@ The Johnsons are stuck in pure exploitation mode - repeating known patterns even
 
 Perhaps most poignant is how new learning can overwrite old patterns completely - the phenomenon of catastrophic forgetting. When AI models are fine-tuned too aggressively on new data, they can lose previously learned capabilities entirely.
 
-Dr. Robert Kim, who studies relationship transitions, explains: "We see this when couples go through major life changes - new baby, job loss, illness. They adapt so completely to the crisis that they forget how to be romantic partners. They've been 'fine-tuned' for crisis management and lost their original programming for intimacy."
+Research on relationship transitions shows this phenomenon when couples go through major life changes - new baby, job loss, illness. They adapt so completely to the crisis that they forget how to be romantic partners. They've been 'fine-tuned' for crisis management and lost their original programming for intimacy.
 
 This explains why many couples struggle to reconnect after major stressors:
 
@@ -118,7 +118,7 @@ The fine-tuning was necessary for survival but costly for the relationship.
 
 ### The Reward Sparsity Challenge
 
-Human relationships suffer from sparse rewards - the feedback that matters most comes infrequently. Dr. Oluwaseun Adeyemi, studying relationships across cultures, notes: "In many African cultures, we have ceremonies and rituals that create regular positive feedback. Western relationships often lack these structured rewards, making learning much harder."
+Human relationships suffer from sparse rewards - the feedback that matters most comes infrequently. Research across cultures shows that in many African cultures, ceremonies and rituals create regular positive feedback. Western relationships often lack these structured rewards, making learning much harder.
 
 Consider the sparsity problem:
 

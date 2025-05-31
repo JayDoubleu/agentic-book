@@ -62,7 +62,7 @@ Humans have similar attention mechanisms, but they're far messier. Marcus's atte
 
 Relationship conversations, however, trigger no such urgency. They can always be revisited "later." There's no immediate consequence for forgetting. So his attention mechanism assigns them lower priority, and they never make it firmly into his context window.
 
-Dr. Amelia Richardson, who studies attention and memory in relationships, explains: "We've found that couples often develop completely different attention hierarchies. One partner might have trained their brain to treat emotional conversations as high-priority, while the other's brain classifies them as 'background processing.' It's not about love or care - it's about how their attention mechanisms have been trained through consequence and reward."
+Research shows that couples often develop completely different attention hierarchies. One partner might have trained their brain to treat emotional conversations as high-priority, while the other's brain classifies them as 'background processing.' It's not about love or care - it's about how their attention mechanisms have been trained through consequence and reward.
 
 ## What This Reveals About Us
 
@@ -86,21 +86,21 @@ Consider Kenji, a project manager at a Tokyo tech firm: "I started noticing that
 
 The second uncomfortable truth is that context window capacity varies dramatically between people and situations. This isn't just about memory - it's about cognitive architecture shaped by experience, culture, and neurodiversity.
 
-**Domain-Specific Windows**: Marcus has a massive context window for technical information but a tiny one for relationship discussions. Dr. Sarah Peterson's research reveals this is common: "We see surgeons who can remember every detail of hundreds of procedures but forget their anniversary. Lawyers who recall obscure case law but not their children's school events. The brain builds specialized context windows based on what has been rewarded and rehearsed."
+**Domain-Specific Windows**: Marcus has a massive context window for technical information but a tiny one for relationship discussions. Research reveals this is common: surgeons who can remember every detail of hundreds of procedures but forget their anniversary; lawyers who recall obscure case law but not their children's school events. The brain builds specialized context windows based on what has been rewarded and rehearsed.
 
 **Emotional Encoding Effects**: Anxiety dramatically affects context windows. Maria, who struggles with social anxiety, describes it: "After every social interaction, my brain replays it obsessively. I remember every word, every awkward pause, every possible mistake. My context window for social failures is enormous. But positive interactions? They fade within hours. It's like my brain has different sized windows for different emotional frequencies."
 
-**Gender Patterns**: Research consistently shows that women often maintain larger context windows for relationship and emotional information. Dr. Patricia Chen explains: "This isn't biological determinism - it's social training. From early childhood, girls are rewarded for remembering social details, maintaining relationship histories, tracking emotional states. Boys are more often rewarded for task completion, not relationship maintenance. By adulthood, these create dramatically different context window architectures."
+**Gender Patterns**: Research consistently shows that women often maintain larger context windows for relationship and emotional information. This isn't biological determinism - it's social training. From early childhood, girls are rewarded for remembering social details, maintaining relationship histories, tracking emotional states. Boys are more often rewarded for task completion, not relationship maintenance. By adulthood, these create dramatically different context window architectures.
 
 **Neurodiversity Factors**: ADHD creates fascinating context window variations. Jake, a software developer with ADHD, explains: "My working memory context window is tiny - I literally forget what I'm doing mid-task. But my associative context window is enormous. I can connect ideas across totally different domains, see patterns others miss. It's not deficit, it's difference. The problem is school and work are designed for neurotypical context windows."
 
-**Age-Related Changes**: Context windows change across the lifespan in complex ways. Dr. Robert Kim, who studies cognitive aging, notes: "We see shrinkage in working memory context windows with age, but expansion in crystallized knowledge windows. An 70-year-old might struggle to remember new names but can access decades of accumulated wisdom. The key is learning to work with your current window architecture, not mourning the one you had at 25."
+**Age-Related Changes**: Context windows change across the lifespan in complex ways. Research on cognitive aging shows shrinkage in working memory context windows with age, but expansion in crystallized knowledge windows. A 70-year-old might struggle to remember new names but can access decades of accumulated wisdom. The key is learning to work with your current window architecture, not mourning the one you had at 25.
 
 ### The Attention Bottleneck
 
 The third revelation involves what neuroscientists call the "attention bottleneck" - the narrow channel through which information must pass to enter our context window. Unlike AI models that can parallel-process massive amounts of text, human attention is severely limited.
 
-Dr. Michael Torres, who studies attention in the digital age, explains: "The average knowledge worker switches context every 3 minutes. Each switch dumps the previous context. By day's end, they've had hundreds of micro-conversations across email, Slack, meetings, and texts, but retained almost nothing. Their context window never gets a chance to consolidate."
+Research on attention in the digital age reveals alarming patterns: the average knowledge worker switches context every 3 minutes. Each switch dumps the previous context. By day's end, they've had hundreds of micro-conversations across email, Slack, meetings, and texts, but retained almost nothing. Their context window never gets a chance to consolidate.
 
 This creates what he calls "context fragmentation":
 
@@ -116,13 +116,13 @@ This creates what he calls "context fragmentation":
 
 The fourth insight involves memory consolidation - the process by which information moves from temporary context windows to longer-term storage. This process requires time and, crucially, lack of interference.
 
-Dr. Lisa Park's sleep lab research is revealing: "During sleep, the brain replays the day's important information, moving it from temporary to permanent storage. But this process is selective. The brain consolidates what it deems important based on emotional weight, repetition, and relevance to existing memories."
+Sleep lab research reveals fascinating insights: during sleep, the brain replays the day's important information, moving it from temporary to permanent storage. But this process is selective. The brain consolidates what it deems important based on emotional weight, repetition, and relevance to existing memories.
 
 Here's the problem: Marcus's brain has learned that technical information is "important" (it gets replayed, discussed with colleagues, documented) while relationship conversations are "temporary" (they happen once, aren't documented, seem to have no immediate consequences). So during sleep consolidation, the server crash gets saved while the vacation discussion gets discarded.
 
 ### Cultural Context Windows
 
-Different cultures create different context window norms. Dr. Oluwaseun Adeyemi, who studies memory across cultures, shares fascinating findings: "In oral cultures, we see much larger context windows for narrative information. A griot in West Africa can recite family histories spanning centuries. But ask them to remember a shopping list or meeting agenda? Much harder. Their brains are optimized for story-shaped context, not list-shaped context."
+Different cultures create different context window norms. Research on memory across cultures shows fascinating findings: in oral cultures, much larger context windows for narrative information develop. A griot in West Africa can recite family histories spanning centuries. But ask them to remember a shopping list or meeting agenda? Much harder. Their brains are optimized for story-shaped context, not list-shaped context.
 
 She continues: "Western education trains for specific context window shapes - short-term memorization for tests, quick context switching between subjects. But this comes at a cost. We're very good at cramming information into temporary context windows but terrible at long-term narrative coherence."
 

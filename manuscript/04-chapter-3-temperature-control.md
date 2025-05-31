@@ -60,7 +60,7 @@ The first revelation is that human "temperature" manifests across every aspect o
 
 - **In Risk-Taking**: Low-temperature individuals have the same lunch every day. High-temperature individuals might randomly decide to move to Thailand.
 
-This spectrum exists across cultures, but different societies calibrate it differently. Dr. Kenji Yamamoto, a cultural psychologist studying creativity across cultures, notes: "In Japan, we have a concept called 'kata' - perfecting form through repetition. This is essentially low-temperature mastery. But we also have 'ikigai' - finding unique purpose - which requires higher temperature exploration. The wisdom is knowing when to apply which."
+This spectrum exists across cultures, but different societies calibrate it differently. In Japan, there's a concept called 'kata' - perfecting form through repetition. This is essentially low-temperature mastery. But there's also 'ikigai' - finding unique purpose - which requires higher temperature exploration. The wisdom lies in knowing when to apply which approach.
 
 ### The Context-Switching Challenge
 
@@ -68,7 +68,7 @@ The second insight is that most humans struggle with temperature adjustment. Unl
 
 Consider Maria, a tax accountant who moonlights as a stand-up comedian. "At work, I need to be temperature 0.1 - every decimal point matters, every rule must be followed perfectly," she explains. "But on stage, I need to be at least 1.5 - making unexpected connections, taking risks. The hardest part isn't doing either one. It's the switching. Some nights I get on stage and start explaining tax law. Some mornings I try to make my spreadsheets funny."
 
-This temperature rigidity appears in neurodivergent individuals in particularly interesting ways. Dr. Sarah Chen, who researches autism and ADHD, observes: "Many autistic individuals operate at consistently low temperature in social situations - preferring predictable scripts and patterns. But in their areas of special interest, they might show extremely high temperature, making connections others miss. ADHD individuals often show the opposite - high temperature as default, struggling to lower it when precision is needed."
+This temperature rigidity appears in neurodivergent individuals in particularly interesting ways. Many autistic individuals operate at consistently low temperature in social situations - preferring predictable scripts and patterns. But in their areas of special interest, they might show extremely high temperature, making connections others miss. ADHD individuals often show the opposite - high temperature as default, struggling to lower it when precision is needed.
 
 ### The Social Temperature Police
 
@@ -90,19 +90,19 @@ Research reveals a troubling pattern: human temperature tends to decrease with a
 
 But educational systems systematically train this out of us. "Show your work" means "use the standard method." "Color inside the lines" is literal low-temperature training. By adulthood, many people have had their temperature dial rusted in place at 0.3.
 
-Dr. Ming Wu, who studies creativity in aging, found something fascinating: "Older adults who maintain high temperature in some life areas show better cognitive resilience. It's not about being universally creative - it's about maintaining the ability to shift between temperatures. Use it or lose it applies to temperature flexibility too."
+Research reveals something fascinating: older adults who maintain high temperature in some life areas show better cognitive resilience. It's not about being universally creative - it's about maintaining the ability to shift between temperatures. Use it or lose it applies to temperature flexibility too.
 
 ### The Innovation Paradox
 
 Perhaps most revealing is what I call the Innovation Paradox. Organizations say they want innovation (high temperature) but reward predictability (low temperature). They hire for creativity but promote for conformity.
 
-This creates what researcher Dr. James Patterson calls "temperature masking" - people who learn to perform high temperature in interviews and brainstorming sessions but actually operate at low temperature. "We found that about 60% of people hired for 'creative' roles actually score very low on genuine divergent thinking tests. They've learned to fake high temperature when needed."
+This creates what researchers call "temperature masking" - people who learn to perform high temperature in interviews and brainstorming sessions but actually operate at low temperature. Studies suggest about 60% of people hired for 'creative' roles actually score very low on genuine divergent thinking tests. They've learned to fake high temperature when needed.
 
 The reverse also happens. Lisa, a graphic designer, shares: "I'm naturally high temperature - I see colors as having personalities, I dream in surrealist landscapes. But I've learned to present my work in low-temperature language. Instead of saying 'This purple is feeling anxious about being next to that yellow,' I say 'These colors create visual tension that draws the eye.'"
 
 ### The Biological Basis
 
-Neuroscience is beginning to uncover the biological basis of human temperature settings. Dr. Raj Patel's brain imaging studies show: "High-temperature thinking correlates with increased activity in the default mode network - the brain's 'wandering' system. Low-temperature thinking shows more activity in task-positive networks. Fascinatingly, people who can consciously shift between temperatures show stronger connections between these networks."
+Neuroscience is beginning to uncover the biological basis of human temperature settings. Brain imaging studies show that high-temperature thinking correlates with increased activity in the default mode network - the brain's 'wandering' system. Low-temperature thinking shows more activity in task-positive networks. Fascinatingly, people who can consciously shift between temperatures show stronger connections between these networks.
 
 This has implications for mental health. Depression often involves getting stuck at extremely low temperature - unable to see alternative possibilities. Mania can involve temperature so high that connections become meaningless. Healthy functioning requires temperature flexibility.
 
