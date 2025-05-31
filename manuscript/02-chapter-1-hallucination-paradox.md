@@ -30,7 +30,7 @@ This technical definition could just as easily describe David's dinner party per
 
 Neuroscience reveals that human memory and knowledge work remarkably like language models. We don't store perfect recordings of facts. Instead, we store patterns, associations, and fragments. When we need to recall information, our brains reconstruct it on the fly, filling in gaps with what seems probable based on our past experiences and cultural context.
 
-This is why false memories are so common. In famous studies, researchers have successfully implanted entirely fabricated childhood memories in adult subjects. The subjects don't just claim to remember these false events - they genuinely experience them as real memories, complete with sensory details and emotional responses. Their brains have hallucinated a past that never existed.
+This is why false memories are so common. In famous studies by Elizabeth Loftus and colleagues, researchers have successfully implanted entirely fabricated childhood memories in adult subjects (Loftus & Pickrell, 1995). The subjects don't just claim to remember these false events - they genuinely experience them as real memories, complete with sensory details and emotional responses. Their brains have hallucinated a past that never existed.
 
 The brain's pattern-completion system is so powerful that it operates even when we're awake and actively thinking. When David "remembered" that we only use 10% of our brains, his neural networks were doing exactly what they evolved to do: taking a fragment (maybe he heard something about unused potential), matching it to patterns (pop psychology tropes about hidden abilities), and generating a complete thought that felt like retrieved knowledge.
 
@@ -162,3 +162,9 @@ Our brains don't distinguish between retrieved facts and generated patterns - bo
 Understanding human cognition as a hallucination engine doesn't diminish us - it empowers us. By recognizing our own tendency to confabulate, we can develop better metacognitive awareness, make more conscious choices about when accuracy matters, and perhaps even design better AI systems that acknowledge uncertainty in more human-compatible ways. The question isn't whether we hallucinate - we all do, constantly. The question is what we do with that knowledge.
 
 But recognizing our tendency to hallucinate is only the first step. If we're all walking confabulation engines, generating plausible fictions as easily as facts, then perhaps what we need isn't to stop hallucinating - that may be impossible given how our brains work. Perhaps what we need is better infrastructure to catch and correct our inevitable errors. As we'll see in the next chapter, we've built exactly such infrastructure for artificial intelligence. The question is: why haven't we built it for ourselves?
+
+---
+
+## References
+
+Loftus, E. F., & Pickrell, J. E. (1995). The formation of false memories. Psychiatric Annals, 25(12), 720-725.
