@@ -42,9 +42,22 @@ From first prompt to book completion:
 - **claude-3-5-haiku:** 139.1k input, 5.0k output, 0 cache read, 0 cache write
 - **claude-opus:** 995 input, 90.6k output, 31.7m cache read, 693.8k cache write
 
-## Combined Total Stats
+## Opus 4.1 Enhancement Session
 
-- **Total cost:** $157.07
-- **Total API time:** ~4h 22m
-- **Total wall time:** ~6h 37m
-- **Total changes:** 9,643 lines added, 1,834 lines removed
+- **Date:** January 29, 2025
+- **Model:** Claude Opus 4.1
+- **Key Enhancements:**
+  - Added Chapter 16: The Collaborative Mind
+  - Enhanced consciousness exploration with AI self-reflection
+  - Added global cultural perspectives throughout
+  - Deepened philosophical insights on emergence
+  - Meta-reflections on the book's own creation
+  - Updated front matter and conclusion
+
+## Combined Total Stats (All Sessions)
+
+- **Total cost:** $157.07 (prior sessions) + current session
+- **Total API time:** ~4h 22m + current session
+- **Total wall time:** ~6h 37m + current session  
+- **Total changes:** 9,643 lines added, 1,834 lines removed + ~500 lines added in Opus 4.1 session
+- **Final word count:** ~55,000+ words

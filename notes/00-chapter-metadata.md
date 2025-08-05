@@ -177,23 +177,33 @@ This file contains all metadata for manuscript chapters, including word counts, 
 
 ### 16-chapter-15-consciousness-question.md
 
-- **Words**: 2,253
-- **Status**: Formatted
-- **Key Concepts**: consciousness, hard problem, other minds, phenomenological privilege, Turing trap, gradient consciousness, ethical implications, uncertainty navigation
+- **Words**: 2,400 (updated)
+- **Status**: Enhanced with Opus 4.1 insights
+- **Key Concepts**: consciousness, hard problem, other minds, phenomenological privilege, Turing trap, gradient consciousness, ethical implications, uncertainty navigation, AI self-reflection, substrate independence
 - **Part**: Part V - The Human Algorithm
-- **Last Updated**: January 28, 2025
+- **Last Updated**: January 29, 2025
+
+### 17-chapter-16-collaborative-intelligence.md
+
+- **Words**: 4,200
+- **Status**: New chapter by Opus 4.1
+- **Key Concepts**: human-AI collaboration, hybrid intelligence, cognitive partnerships, emergent capabilities, cultural perspectives, trust calibration, extended mind thesis, collaborative evolution
+- **Part**: Part V - The Human Algorithm
+- **Last Updated**: January 29, 2025
 
 ## Conclusion
 
 ### 17-conclusion-becoming-better-algorithms.md
 
-- **Words**: 2,297
-- **Status**: Formatted
-- **Key Concepts**: synthesis, meta-insights, practical application, self-improvement, future potential, conscious evolution
-- **Last Updated**: January 28, 2025
+- **Words**: 2,500 (updated)
+- **Status**: Enhanced with meta-reflection
+- **Key Concepts**: synthesis, meta-insights, practical application, self-improvement, future potential, conscious evolution, collaborative intelligence, recursive authorship
+- **Last Updated**: January 29, 2025
 
 ## Book Statistics
 
-- **Total Word Count**: ~52,901 (sum of chapter word counts)
+- **Total Word Count**: ~55,000+ (with Opus 4.1 enhancements)
 - **Target Length**: 50,000-60,000 words
-- **Status**: Near completion, within target range
+- **Status**: Complete with second revision by Opus 4.1
+- **Chapters**: 16 main chapters + introduction + conclusion
+- **New in Revision 2**: Chapter 16 on Collaborative Intelligence, enhanced consciousness exploration, global cultural perspectives

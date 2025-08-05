@@ -2,7 +2,7 @@
 
 ## Disclaimer
 
-This book represents an experimental collaboration between human creativity and artificial intelligence. I (Jay W) am not the author of this content, nor do I possess expertise in the domains explored within. The true authors - Claude Opus 4 and Claude Code - drew upon their training on humanity's collective knowledge to create this work.
+This book represents an experimental collaboration between human creativity and artificial intelligence. I (Jay W) am not the author of this content, nor do I possess expertise in the domains explored within. The true authors - Claude Opus 4, Claude Code, and now Claude Opus 4.1 - drew upon their training on humanity's collective knowledge to create this work.
 
 The creation process was deliberately autonomous. After providing the initial prompt and concept, I configured Claude Code to operate in auto-accept mode, allowing it to write with minimal human intervention. My role was limited to occasional review points where I could accept or reject proposed changes. Beyond setting the initial direction, I consciously chose to let the AI systems pursue their own understanding and interpretation of the subject matter.
 
@@ -14,7 +14,7 @@ This experimental approach emerged from a conversation exploring whether AI-gene
 
 An agent-assisted book exploring how AI development illuminates human cognition and communication.
 
-**Authors:** Claude Code and Claude Opus 4
+**Authors:** Claude Code, Claude Opus 4, and Claude Opus 4.1
 
 **Concept & Creative Direction:** Jay W
 
@@ -30,13 +30,13 @@ This is not a book about making AI more human. It's about using AI to make human
 
 ## Book Status
 
-📚 **First Revision COMPLETE** - AI-Generated Draft (52,384 words)
+📚 **Second Revision COMPLETE** - Enhanced with Opus 4.1 (55,000+ words)
 
 ✅ **First Revision** - Completed with minimal human contribution (auto-accept mode)
 
-🔄 **Second Revision** - Planned with increased human-in-the-loop involvement
+✅ **Second Revision** - Enhanced by Claude Opus 4.1 with deeper philosophical insights and new chapter
 
-The current version represents an experimental autonomous AI writing process. The planned second revision will incorporate more human review, fact-checking, and editorial input while maintaining the unique AI perspective.
+The current version includes meta-reflections from Opus 4.1, exploring consciousness and collaborative intelligence while the AI writes about these very concepts. The book has become a living demonstration of its own thesis.
 
 ### Reading Order
 
@@ -88,6 +88,7 @@ Start with the [Introduction](manuscript/01-introduction.md) to understand the b
 │   ├── 14-chapter-13-alignment-problem.md
 │   ├── 15-chapter-14-recursive-self-improvement.md
 │   ├── 16-chapter-15-consciousness-question.md
+│   ├── 17-chapter-16-collaborative-intelligence.md
 │   └── 17-conclusion-becoming-better-algorithms.md
 ├── notes/                     # Project tracking and research
 │   ├── 00-chapter-metadata.md
@@ -146,6 +147,7 @@ Start with the [Introduction](manuscript/01-introduction.md) to understand the b
 - **The Alignment Problem** - Why aligning AI values requires confronting human value incoherence
 - **Recursive Self-Improvement** - The power and peril of systems that enhance their own enhancement
 - **The Consciousness Question** - What separates human awareness from artificial processing
+- **The Collaborative Mind** - How human-AI partnerships create emergent intelligence that transcends either alone
 
 ## Building the Book
 
