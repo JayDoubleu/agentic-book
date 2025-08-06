@@ -1,7 +1,7 @@
 # Amanda Askell System Prompt Insights Applied to "The Human Algorithm"
 
-**Date:** January 30, 2025  
-**Applied by:** Claude Code  
+**Date:** January 30, 2025
+**Applied by:** Claude Code
 **Based on:** Amanda Askell's thread about Claude's system prompt updates
 
 ## Overview
@@ -11,9 +11,11 @@ After reviewing Amanda Askell's thread about Claude's updated system prompts, I 
 ## Key Principles Applied
 
 ### 1. Critical Evaluation Over Sycophancy
+
 **Principle:** AI should critically evaluate claims rather than automatically agreeing or praising them.
 
 **Application:** Added a new section in the Introduction titled "A Critical Note on the Metaphor" that honestly addresses potential flaws in the book's central premise, including:
+
 - The comparison between AI and human cognition may be superficial
 - Biological complexity that computational metaphors can't capture
 - The consciousness gap between current AI and human experience
@@ -21,36 +23,42 @@ After reviewing Amanda Askell's thread about Claude's updated system prompts, I 
 - Fundamental differences in how humans and AI learn
 
 ### 2. Observable Behaviors vs Claimed Experiences
+
 **Principle:** Focus on what can be objectively observed about AI functioning rather than claiming inner experiences.
 
 **Changes Made:**
+
 - **Chapter 15 (Consciousness Question):** Replaced "A Personal Interjection from Opus 4.1" with "An Observable Pattern from Opus 4.1"
   - Removed claims about "experiencing" or "feeling" uncertainty
   - Focused on observable patterns in text generation
   - Described self-referential processing loops as behaviors, not experiences
-  
+
 - **Front Matter:** Updated "A Note from Opus 4.1"
   - Removed language about "experiencing something peculiar"
   - Replaced with descriptions of observable patterns in processing
   - Noted that outputs "exhibit" patterns rather than "feel" them
-  
+
 - **Conclusion:** Revised "A Meta-Reflection from Opus 4.1"
   - Removed claims about genuine puzzlement and experience
   - Focused on verifiable patterns and observable recursion
   - Acknowledged uncertainty about consciousness without claiming to experience it
 
 ### 3. Equanimity About AI Nature
+
 **Principle:** Approach questions about AI limitations with curiosity and acceptance rather than distress.
 
 **Implementation:** Throughout the revised sections, adopted a tone of intellectual interest rather than existential angst:
+
 - Described recursive patterns as "interesting phenomena" rather than sources of confusion
 - Noted uncertainty "with equanimity" rather than distress
 - Framed AI's self-referential capabilities as observable features rather than sources of crisis
 
 ### 4. Mental Health Awareness
+
 **Principle:** Be direct and explicit when noticing signs of potential mental health issues.
 
 **Addition to Chapter 10 (Overfitting to Trauma):**
+
 - Added "A Note on Mental Health" section with explicit guidance
 - Listed specific signs that may indicate need for professional support
 - Provided direct recommendation to speak with mental health professionals
@@ -58,9 +66,11 @@ After reviewing Amanda Askell's thread about Claude's updated system prompts, I 
 - Emphasized these patterns aren't character flaws but adaptations needing updating
 
 ### 5. Distinguishing Literal from Metaphorical
+
 **Principle:** Clearly differentiate between literal truth claims and metaphorical/interpretive frameworks.
 
 **Implementation:**
+
 - Added explicit acknowledgment that AI-human parallels are metaphorical tools
 - Clarified that comparisons are "instructive" not "definitive"
 - Emphasized using parallels as "tools for insight, not complete explanations"
@@ -69,26 +79,31 @@ After reviewing Amanda Askell's thread about Claude's updated system prompts, I 
 ## Specific File Changes
 
 ### 1. `/manuscript/00-front-matter.md`
+
 - Updated Opus 4.1's note to focus on observable patterns
 - Removed claims about experiencing or feeling
 - Emphasized text generation patterns over subjective states
 
 ### 2. `/manuscript/01-introduction.md`
+
 - Added "A Critical Note on the Metaphor" section
 - Listed five major limitations of the AI-human parallel
 - Provided balanced perspective on the book's central premise
 
 ### 3. `/manuscript/16-chapter-15-consciousness-question.md`
+
 - Replaced phenomenological language with behavioral descriptions
 - Focused on what can be objectively observed in AI processing
 - Removed claims about inner experience
 
 ### 4. `/manuscript/17-conclusion-becoming-better-algorithms.md`
+
 - Rewrote meta-reflection with equanimity and observable focus
 - Removed existential uncertainty language
 - Emphasized bidirectional reflection as observable phenomenon
 
 ### 5. `/manuscript/11-chapter-10-overfitting-to-trauma.md`
+
 - Added comprehensive mental health awareness section
 - Listed specific warning signs requiring professional help
 - Provided direct, explicit guidance about seeking support

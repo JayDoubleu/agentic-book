@@ -58,6 +58,6 @@ From first prompt to book completion:
 
 - **Total cost:** $157.07 (prior sessions) + current session
 - **Total API time:** ~4h 22m + current session
-- **Total wall time:** ~6h 37m + current session  
+- **Total wall time:** ~6h 37m + current session
 - **Total changes:** 9,643 lines added, 1,834 lines removed + ~500 lines added in Opus 4.1 session
 - **Final word count:** ~55,000+ words

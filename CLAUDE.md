@@ -43,6 +43,7 @@ The codebase follows a clear separation between source content and build output:
 - **book/** - Generated output directory (gitignored). All built files go here, organized by format.
 
 The build system uses a sophisticated pipeline:
+
 1. Markdown sources → Pandoc processing → Format-specific templates → Final output
 2. Custom Lua filters handle special formatting (e.g., part pages, chapter numbers)
 3. XeLaTeX for high-quality PDF generation with professional typography
@@ -50,12 +51,14 @@ The build system uses a sophisticated pipeline:
 ## Writing Guidelines
 
 ### Tone & Style
+
 - **Voice:** Conversational, intellectually curious, accessible
 - **Audience:** General readers interested in technology and human behavior
 - **Approach:** Use concrete examples, avoid jargon, be gently provocative
 - **IMPORTANT:** Do NOT use em dashes (—). Use regular dashes (-), colons, or restructure sentences
 
 ### Chapter Structure Pattern
+
 1. **Opening Scene:** Relatable human scenario
 2. **The AI Mirror:** Parallel LLM concept introduction
 3. **What This Reveals:** Deep dive into human nature insights
@@ -73,6 +76,7 @@ This project enforces strict quality standards through pre-commit hooks:
 - **File hygiene**: No trailing whitespace, proper EOF, no merge conflicts
 
 Run pre-commit manually:
+
 ```bash
 pre-commit run --all-files
 ```
@@ -80,6 +84,7 @@ pre-commit run --all-files
 ## Working with Content
 
 When modifying chapters:
+
 1. Edit files in manuscript/ directory
 2. Maintain frontmatter (title, author, part, chapter fields)
 3. Use standard Markdown with occasional HTML for special formatting
@@ -87,6 +92,7 @@ When modifying chapters:
 5. Check notes/ directory for any relevant context or constraints
 
 When adding new chapters:
+
 1. Create new .md file in manuscript/
 2. Add appropriate frontmatter
 3. Update chapter numbering if needed
@@ -96,6 +102,7 @@ When adding new chapters:
 ## Technical Dependencies
 
 The build system requires:
+
 - Pandoc 2.0+ with pandoc-crossref
 - XeLaTeX (from TeX Live distribution)
 - Make and Bash
@@ -115,6 +122,7 @@ Docker image provides all dependencies if local setup is problematic.
 ## Quality Checklist
 
 Before finalizing changes:
+
 - [ ] Content is engaging and relatable
 - [ ] Technical concepts explained simply
 - [ ] Examples are diverse and inclusive

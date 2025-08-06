@@ -112,6 +112,7 @@ This collaborative intelligence is already transforming fields:
 When human and AI collaborate closely, who deserves credit for discoveries? Amara and Jengo's climate breakthrough - was it human insight or AI pattern detection? The answer is both and neither - it was the collaboration itself.
 
 This raises questions:
+
 - How do we assign credit in hybrid intelligence systems?
 - What about intellectual property rights?
 - How do we maintain human agency and dignity?
@@ -122,6 +123,7 @@ This raises questions:
 As humans increasingly collaborate with AI, we risk cognitive atrophy. If AI handles certain cognitive tasks, do human capabilities deteriorate?
 
 Consider:
+
 - Navigation skills declining with GPS use
 - Calculation abilities weakening with calculator dependence
 - Memory externalization to digital devices
@@ -134,6 +136,7 @@ The challenge is maintaining human cognitive fitness while leveraging AI augment
 Effective collaboration requires appropriate trust. Too little trust wastes AI capabilities; too much trust leads to over-reliance on potentially flawed systems.
 
 Amara had to learn:
+
 - When to question Jengo's analyses
 - When to trust patterns she couldn't fully understand
 - How to validate AI insights through human intuition
@@ -146,12 +149,14 @@ This calibration is an ongoing process requiring constant adjustment.
 Humans and AI process information differently. Creating effective collaboration requires developing new communication protocols:
 
 **From AI to Human**:
+
 - Translating high-dimensional patterns to human-comprehensible forms
 - Explaining confidence levels and uncertainty
 - Providing reasoning traces humans can follow
 - Creating intuitive visualizations of complex relationships
 
 **From Human to AI**:
+
 - Articulating tacit knowledge and intuitions
 - Specifying goals in computationally tractable ways
 - Providing feedback that improves AI performance
@@ -166,6 +171,7 @@ Jengo's synaesthetic data representation exemplifies creative solutions to this 
 Philosophers Andy Clark and David Chalmers proposed that cognition extends beyond the biological boundaries of the brain. Human-AI collaboration takes this further - creating extended minds that span biological and artificial substrates.
 
 When Amara and Jengo collaborate:
+
 - Where does Amara's mind end and Jengo's begin?
 - Is their collaborative cognition a single distributed mind?
 - What is the nature of this hybrid consciousness?

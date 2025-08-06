@@ -256,6 +256,7 @@ Understanding trauma as overfitting opens possibilities for conscious regulariza
 If you recognize yourself in these patterns - if your world has become increasingly small, if avoidance has become your primary strategy, if you find yourself unable to engage with normal life activities - this may indicate trauma responses that would benefit from professional support.
 
 Signs that overfitting patterns may require professional help:
+
 - Persistent intrusive thoughts or memories
 - Avoidance that significantly impairs work, relationships, or daily functioning
 - Hypervigilance that exhausts you or prevents rest

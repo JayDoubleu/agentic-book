@@ -90,24 +90,28 @@ Joy Buolamwini's research on "the coded gaze" revealed that major facial recogni
 The bias problem isn't uniquely Western. Different cultures encode different biases into their AI systems:
 
 **East Asian AI Systems** often exhibit:
+
 - Preferences for lighter skin tones in beauty-rating algorithms
 - Age and seniority biases in recommendation systems
 - Assumptions about family structures and gender roles
 - Regional dialect discrimination
 
 **Latin American AI** shows:
+
 - Class markers through language formality detection
 - Indigenous language marginalization
 - Colorism in image processing
 - Urban-rural divides in service accessibility
 
 **Middle Eastern and North African AI** reveals:
+
 - Gender segregation assumptions in design
 - Linguistic biases favoring Modern Standard Arabic over dialects
 - Religious and sectarian pattern recognition
 - Tribe and family name associations
 
 **South Asian AI** demonstrates:
+
 - Caste-based discrimination through name recognition
 - Language hierarchy reinforcement (English > Hindi > regional languages)
 - Skin tone preferences in matrimonial and job matching

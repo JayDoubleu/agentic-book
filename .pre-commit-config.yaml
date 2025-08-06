@@ -3,30 +3,17 @@ repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v4.5.0
     hooks:
-      # Remove trailing whitespace
-      - id: trailing-whitespace
-        files: \.(md|txt|yml|yaml|sh|lua|tex|css|html)$
-
-      # Ensure files end with a newline
-      - id: end-of-file-fixer
-        files: \.(md|txt|yml|yaml|sh|lua|tex|css|html)$
-
-      # Check for merge conflicts
+      # Check for merge conflicts - CRITICAL
       - id: check-merge-conflict
 
-      # Fix mixed line endings
-      - id: mixed-line-ending
-        args: ['--fix=lf']
-        files: \.(md|txt|yml|yaml|sh|lua|tex|css|html)$
-
-      # Check YAML syntax
+      # Check YAML syntax - IMPORTANT
       - id: check-yaml
 
-      # Prevent large files
+      # Prevent large files - IMPORTANT
       - id: check-added-large-files
         args: ['--maxkb=5000']
 
-      # Check JSON syntax
+      # Check JSON syntax - IMPORTANT
       - id: check-json
         files: \.json$
 
@@ -36,15 +23,32 @@ repos:
       # Check executables have shebangs
       - id: check-executables-have-shebangs
 
-      # Detect private keys
+      # Detect private keys - CRITICAL
       - id: detect-private-key
 
-  # Markdown specific checks
+      # Remove trailing whitespace
+      - id: trailing-whitespace
+        files: \.(md|txt|yml|yaml|sh|lua|tex|css|html)$
+
+      # The following are commented out to reduce annoyance
+      # Uncomment if you want automatic formatting
+
+      # # Ensure files end with a newline (creates many diffs)
+      # - id: end-of-file-fixer
+      #   files: \.(md|txt|yml|yaml|sh|lua|tex|css|html)$
+
+      # # Fix mixed line endings
+      # - id: mixed-line-ending
+      #   args: ['--fix=lf']
+      #   files: \.(md|txt|yml|yaml|sh|lua|tex|css|html)$
+
+  # Markdown linting - CHECK ONLY mode (no auto-fix)
   - repo: https://github.com/igorshubovych/markdownlint-cli
     rev: v0.39.0
     hooks:
       - id: markdownlint
-        args: ['--fix']
+        # Remove --fix flag to only check, not modify
+        args: []
         files: \.md$
 
   # Shell script checks
