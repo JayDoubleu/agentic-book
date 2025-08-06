@@ -68,24 +68,24 @@ Start with the [Introduction](manuscript/01-introduction.md) to understand the b
 ├── manuscript/                # Book chapters in markdown
 │   ├── 00-front-matter.md     # Title, ToC, license
 │   ├── 01-introduction.md     # Introduction: The Mirror We're Building
-│   ├── 02-part-1-intro.md     # Part I introduction
 │   ├── 02-chapter-1-hallucination-paradox.md
+│   ├── 02-part-1-intro.md     # Part I introduction
 │   ├── 03-chapter-2-grounding-ourselves.md
 │   ├── 04-chapter-3-temperature-control.md
-│   ├── 05-part-2-intro.md     # Part II introduction
 │   ├── 05-chapter-4-context-windows.md
+│   ├── 05-part-2-intro.md     # Part II introduction
 │   ├── 06-chapter-5-prompting-personalities.md
 │   ├── 07-chapter-6-fine-tuning-relationships.md
-│   ├── 08-part-3-intro.md     # Part III introduction
 │   ├── 08-chapter-7-bias-detection.md
+│   ├── 08-part-3-intro.md     # Part III introduction
 │   ├── 09-chapter-8-emotional-tokens.md
 │   ├── 10-chapter-9-training-data-of-life.md
-│   ├── 11-part-4-intro.md     # Part IV introduction
 │   ├── 11-chapter-10-overfitting-to-trauma.md
+│   ├── 11-part-4-intro.md     # Part IV introduction
 │   ├── 12-chapter-11-model-collapse.md
 │   ├── 13-chapter-12-emergent-properties.md
-│   ├── 14-part-5-intro.md     # Part V introduction
 │   ├── 14-chapter-13-alignment-problem.md
+│   ├── 14-part-5-intro.md     # Part V introduction
 │   ├── 15-chapter-14-recursive-self-improvement.md
 │   ├── 16-chapter-15-consciousness-question.md
 │   ├── 17-chapter-16-collaborative-intelligence.md
@@ -100,7 +100,10 @@ Start with the [Introduction](manuscript/01-introduction.md) to understand the b
 │   ├── 03-development-progress.md
 │   ├── 04-target-reassessment.md
 │   ├── 05-final-review-tracker.md
-│   └── 06-stats.md
+│   ├── 06-stats.md
+│   ├── 07-opus-4.1-session-summary.md
+│   ├── 08-amanda-askell-insights.md
+│   └── 09-opus-4.1-final-revision.md
 ├── CLAUDE.md                  # AI assistant guidelines
 ├── Dockerfile                 # Container build
 ├── Makefile                   # Build automation
