@@ -6,7 +6,7 @@ Truth is perhaps humanity's most complex relationship. We claim to value it abov
 
 The development of artificial intelligence has forced us to confront this paradox with uncomfortable clarity. When we discovered that large language models could generate false information with perfect confidence, we reacted with alarm. We coined clinical terms like "hallucination" to describe this behavior, as if it were a pathological deviation from normal intelligence. Teams of engineers worked frantically to solve this "problem," developing elaborate systems to ground AI outputs in verifiable reality.
 
-But in our rush to fix machine intelligence, we've revealed something profound about human intelligence: we do exactly the same thing. The only difference is that we've normalized our inaccuracies while pathologizing theirs.
+But in our rush to fix machine intelligence, we've revealed something profound about human intelligence: we do exactly the same thing. The only difference is that we've normalized our inaccuracies while pathologizing theirs. We demand perfect citation from ChatGPT while retweeting half-remembered statistics. We critique AI for confident fabrication while celebrating human storytellers who blend fact and fiction with equal conviction.
 
 Part I explores this accuracy paradox through three lenses:
 

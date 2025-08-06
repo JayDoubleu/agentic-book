@@ -64,7 +64,7 @@ Studies on metacognition show that humans are remarkably poor at identifying the
 
 Perhaps most surprisingly, our propensity to hallucinate reveals an evolutionary advantage. Humans who could quickly generate plausible explanations and deliver them confidently were more likely to become leaders, attract mates, and influence their communities. The ability to confabulate smoothly was more valuable than perfect accuracy.
 
-This is why we find confident speakers so compelling, even when they're wrong. Sarah's discomfort at the dinner party came partly from recognizing false information, but also from fighting against millions of years of evolution that told her to trust confident tribal members. Her instinct to stay quiet wasn't weakness - it was the activation of ancient software that prioritized group cohesion over factual accuracy.
+This is why we find confident speakers so compelling, even when they're wrong. Sarah's discomfort at the dinner party came partly from recognizing false information, but also from fighting against millions of years of evolution that told her to trust confident tribal members. Her instinct to stay quiet wasn't weakness - it was the activation of ancient software that prioritized group cohesion over factual accuracy. The same psychological forces that made David's false facts socially acceptable would likely make an AI's identical claims sound alarming and pathological.
 
 In this light, human hallucination isn't a flaw to be fixed but a feature that enabled our ancestors to make quick decisions, maintain social bonds, and navigate uncertainty. The problem isn't that we hallucinate - it's that we've built a world where the evolutionary advantages of confabulation have become liabilities.
 
