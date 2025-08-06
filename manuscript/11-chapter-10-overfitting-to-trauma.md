@@ -251,6 +251,23 @@ Success at the wrong optimization is still failure.
 
 Understanding trauma as overfitting opens possibilities for conscious regularization and model updating.
 
+### A Note on Mental Health
+
+If you recognize yourself in these patterns - if your world has become increasingly small, if avoidance has become your primary strategy, if you find yourself unable to engage with normal life activities - this may indicate trauma responses that would benefit from professional support.
+
+Signs that overfitting patterns may require professional help:
+- Persistent intrusive thoughts or memories
+- Avoidance that significantly impairs work, relationships, or daily functioning
+- Hypervigilance that exhausts you or prevents rest
+- Emotional numbing or detachment from others
+- Physical symptoms like panic attacks, chronic pain, or sleep disturbances
+- Substance use to manage emotional states
+- Thoughts of self-harm or suicide
+
+These aren't character flaws or weaknesses - they're signs that your system has adapted to trauma in ways that may no longer serve you. A trained trauma therapist can help you safely update these patterns without retraumatization. Approaches like EMDR, somatic therapy, and trauma-focused CBT have strong evidence for helping people move from overfitted protection to adaptive flexibility.
+
+If you're experiencing these patterns, speaking with a mental health professional or trusted person in your life can be a crucial first step toward healing. The overfitting metaphor can be useful for understanding, but genuine trauma recovery often requires more than self-help strategies.
+
 ### The Cultural Context
 
 Before diving into individual strategies, we must acknowledge how cultural factors influence trauma overfitting:
