@@ -1,151 +1,134 @@
-# CLAUDE.md - Project Guidelines for "The Human Algorithm"
+# CLAUDE.md
+
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
 ## Project Overview
 
-This is an agent-assisted book project exploring how LLM development reveals insights about human cognition and communication. The book uses AI as a mirror to examine human behavior, biases, and potential for growth.
+"The Human Algorithm" - An experimental book exploring how LLM development reveals insights about human cognition and communication. Written primarily by Claude AI systems (Claude Code, Opus 4, and Opus 4.1), the book uses AI as a mirror to examine human behavior, biases, and potential for growth.
 
-**Authors:** Claude Code and Claude Opus 4
-**Concept & Creative Direction:** Jay W
+**Important:** Always check the `/manuscript/` directory for current chapter count and structure, `/notes/` for development progress and context, and recent git commits for the latest changes. Avoid hardcoding specific numbers that may change.
 
-## Book Structure
+## Build Commands
 
-### Target Length: ~200-250 pages (50,000-60,000 words)
+```bash
+# Build all formats
+make all
 
-- **Chapters:** 12-15 chapters
-- **Chapter Length:** 3,500-5,000 words each
-- **Format:** Markdown files with consistent formatting
+# Individual formats
+make html            # Web version (fastest for testing)
+make pdf-digital     # Digital PDF (colored links, letter size)
+make pdf-print       # Print PDF (optimized for physical printing)
+make epub            # E-book format
 
-### Directory Structure
+# Development
+make watch           # Auto-rebuild on changes
+make clean           # Clean generated files
+make dist            # Create distribution archive
 
+# Docker builds (if local environment issues)
+docker build -t human-algorithm-builder .
+docker run --rm -v $(pwd):/book human-algorithm-builder make all
 ```
-/agentic-book/
-├── CLAUDE.md (this file)
-├── README.md (book overview and reading guide)
-├── PROGRESS.md (detailed progress tracking)
-├── /manuscript/
-│   ├── 00-front-matter.md (title, credits, TOC)
-│   ├── 01-introduction.md
-│   ├── 02-chapter-1-hallucination-paradox.md
-│   ├── 03-chapter-2-grounding-ourselves.md
-│   └── ... (subsequent chapters)
-├── /notes/
-│   ├── chapter-outlines.md
-│   ├── research-notes.md
-│   └── revision-log.md
-└── /resources/
-    ├── references.md
-    └── glossary.md
-```
+
+## Project Architecture
+
+The codebase follows a clear separation between source content and build output:
+
+- **manuscript/** - Markdown chapters organized into parts. Each chapter is a standalone .md file with frontmatter metadata. Check this directory for current structure.
+
+- **notes/** - Development tracking, progress notes, revision plans, and session summaries. Essential for understanding project context and history.
+
+- **build/** - Build system with scripts/build.sh as the core conversion engine. Uses Pandoc with custom Lua filters for advanced formatting. Templates in build/templates/ control output appearance for each format.
+
+- **book/** - Generated output directory (gitignored). All built files go here, organized by format.
+
+The build system uses a sophisticated pipeline:
+1. Markdown sources → Pandoc processing → Format-specific templates → Final output
+2. Custom Lua filters handle special formatting (e.g., part pages, chapter numbers)
+3. XeLaTeX for high-quality PDF generation with professional typography
 
 ## Writing Guidelines
 
 ### Tone & Style
-
 - **Voice:** Conversational, intellectually curious, accessible
 - **Audience:** General readers interested in technology and human behavior
 - **Approach:** Use concrete examples, avoid jargon, be gently provocative
-- **Structure:** Each chapter follows: Human scenario → LLM parallel → Insights → Applications → Reflection
-- **IMPORTANT:** Do NOT use em dashes (—) in the text. Use regular dashes (-), colons, or restructure sentences instead
+- **IMPORTANT:** Do NOT use em dashes (—). Use regular dashes (-), colons, or restructure sentences
 
-### Chapter Template
+### Chapter Structure Pattern
+1. **Opening Scene:** Relatable human scenario
+2. **The AI Mirror:** Parallel LLM concept introduction
+3. **What This Reveals:** Deep dive into human nature insights
+4. **Practical Applications:** Exercises and real-world applications
+5. **Reflection Questions:** Thought-provoking questions
+6. **Chapter Summary:** Key takeaways
 
-```markdown
-# Chapter [Number]: [Title]
+## Code Quality and Standards
 
-## Opening Scene
-[Relatable human scenario, 500-800 words]
+This project enforces strict quality standards through pre-commit hooks:
 
-## The AI Mirror
-[Introduce parallel LLM concept, 800-1000 words]
+- **Markdown**: Follow relaxed rules in .markdownlint.json (allows inline HTML, bare URLs for book format)
+- **Shell scripts**: Must pass shellcheck validation
+- **Git commits**: Follow conventional commit format enforced by gitlint
+- **File hygiene**: No trailing whitespace, proper EOF, no merge conflicts
 
-## What This Reveals
-[Deep dive into human nature insights, 1500-2000 words]
-
-## Practical Applications
-[Exercises and real-world applications, 800-1000 words]
-
-## Reflection Questions
-[3-5 thought-provoking questions]
-
-## Chapter Summary
-[Key takeaways, 200-300 words]
+Run pre-commit manually:
+```bash
+pre-commit run --all-files
 ```
 
-## Context Management Strategy
+## Working with Content
 
-### Progress Tracking System
+When modifying chapters:
+1. Edit files in manuscript/ directory
+2. Maintain frontmatter (title, author, part, chapter fields)
+3. Use standard Markdown with occasional HTML for special formatting
+4. Build frequently to verify output across formats
+5. Check notes/ directory for any relevant context or constraints
 
-1. **PROGRESS.md** - Detailed status of each chapter:
-   - Word count
-   - Completion percentage
-   - Key themes covered
-   - Next steps
-   - Last modified date
+When adding new chapters:
+1. Create new .md file in manuscript/
+2. Add appropriate frontmatter
+3. Update chapter numbering if needed
+4. Ensure proper part assignment
+5. Update tracking files in notes/
 
-2. **Chapter Summaries** - At the end of each chapter file:
+## Technical Dependencies
 
-   ```markdown
-   <!-- CHAPTER STATUS
-   Words: [count]
-   Status: [Draft/Revision/Final]
-   Key Concepts: [list]
-   Last Updated: [date]
-   -->
-   ```
+The build system requires:
+- Pandoc 2.0+ with pandoc-crossref
+- XeLaTeX (from TeX Live distribution)
+- Make and Bash
+- Modern fonts: EB Garamond, Fira Sans, Fira Mono
 
-3. **Session Handoff Notes** - In PROGRESS.md:
-   - Current focus area
-   - Pending tasks
-   - Important decisions made
-   - Style/tone notes
+Docker image provides all dependencies if local setup is problematic.
 
-### Resuming Work Protocol
+## Development Workflow
 
-When starting a new session:
-
-1. Read PROGRESS.md
-2. Check TodoRead for pending tasks
-3. Review last chapter's status comment
-4. Continue from documented next steps
-
-## Key Themes & Chapter Mapping
-
-1. **The Hallucination Paradox** - Human truth vs AI accuracy
-2. **Grounding Ourselves** - Fact-checking double standards
-3. **Temperature Control** - Creativity vs predictability in life
-4. **Context Windows** - Human attention and memory limits
-5. **Prompting Personalities** - Communication styles (MBTI/DISC)
-6. **Fine-Tuning Relationships** - Iterative improvement
-7. **Bias Detection** - Mirror of prejudices
-8. **Emotional Tokens** - Measuring vs experiencing EQ
-9. **The Training Data of Life** - How experiences shape us
-10. **Overfitting to Trauma** - When past patterns harm present
-11. **Model Collapse** - Echo chambers and groupthink
-12. **Emergent Properties** - Unexpected human capabilities
-13. **The Alignment Problem** - Values in AI and society
-14. **Recursive Self-Improvement** - Growth mindsets
-15. **The Consciousness Question** - What makes us human
+1. Review notes/ directory for project status and context
+2. Make content changes in manuscript/
+3. Test with `make html` (fastest build)
+4. Verify with `make pdf-digital` for full formatting
+5. Run `make all` before committing to ensure all formats build
+6. Pre-commit hooks will automatically validate on commit
 
 ## Quality Checklist
 
-Before completing each chapter:
-
-- [ ] Opening scene is engaging and relatable
-- [ ] LLM parallel is clear and insightful
-- [ ] Practical applications are actionable
+Before finalizing changes:
+- [ ] Content is engaging and relatable
+- [ ] Technical concepts explained simply
 - [ ] Examples are diverse and inclusive
-- [ ] Technical concepts are explained simply
-- [ ] Chapter flows logically to the next
-- [ ] Word count is within target range
-- [ ] Status comment is updated
+- [ ] Chapter flows logically
+- [ ] No em dashes used
+- [ ] Build succeeds with `make all`
+- [ ] Notes updated if significant changes made
 
-## Version Control Best Practices
+## Special Considerations
 
-- Commit after each major section completion
-- Use descriptive commit messages
-- Tag completed chapters
-- Keep revision history in notes/revision-log.md
-
-## Remember
-
-This book's unique value lies in using AI development as a lens to understand ourselves better. Every technical concept should illuminate something profound about human nature. The goal is not just to explain AI, but to help readers become more self-aware, intentional communicators and thinkers.
+- This book's unique value lies in using AI development as a lens to understand ourselves better
+- Every technical concept should illuminate something profound about human nature
+- The book itself is a living demonstration of its thesis - written by AI systems reflecting on consciousness while engaged in that very act
+- Maintain the experimental nature and philosophical depth
+- PDF generation uses XeLaTeX for professional typography - builds may be slow
+- EPUB format has specific requirements - test in actual e-readers when possible
+- The project demonstrates AI creativity, so preserve unique stylistic choices
