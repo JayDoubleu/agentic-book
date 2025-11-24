@@ -140,23 +140,31 @@ She didn't know. But she didn't need to know. The collaboration was valuable reg
 
 ## Marcus's Integration
 
-Marcus's community experiment had taught him similar lessons.
+Marcus's community experiment had taught him similar lessons, though not the ones he'd expected.
 
-"The forum isn't just a collection of individuals," he reflected. "When it works, it's a mind. A distributed mind that thinks thoughts none of us could think alone."
+The night he finally admitted to Denise how close he'd come to giving up, they were doing dishes. It was their ritual: she washed, he dried, and they talked about their days in a way they never managed face-to-face.
 
-His wife asked: "So are you saying the forum is conscious?"
+"After the second forum failed," he said, "I thought maybe I just wasn't cut out for this. I kept screwing it up in different ways. The first one collapsed because I was too present. The second because I was too absent. Maybe some people just shouldn't build communities."
 
-"I don't know. But I know that when I participate in genuine collective thinking, I feel like part of something larger. And that feeling isn't just subjective illusion: it correlates with real emergence, with insights that wouldn't appear without the collaboration."
+Denise handed him a pot. "What changed?"
+
+"Keisha told me something that pissed me off. She said I was treating community building like a problem to solve instead of a relationship to be in. I wanted to argue, but I realized she was right. I kept trying to fix the forum from outside, like it was a machine with a broken part. But communities aren't machines. They're more like... marriages."
+
+Denise laughed. "Is this where you tell me our marriage works because of my excellent feedback on your bias patterns?"
+
+"Our marriage works because you kick me under the table when I'm being insufferable, and I try to actually listen." He paused. "That's what I wasn't doing with the forums. I was so focused on the members' biases that I wasn't listening to feedback about my own."
+
+Later, reflecting on what the forum had become, he said: "When it works, it's not just a collection of individuals. It's like a mind. A distributed mind that thinks thoughts none of us could think alone."
+
+"So the forum is conscious?"
+
+"I don't know. But I know that when I participate in genuine collective thinking, I feel like part of something larger. And that feeling correlates with real emergence - insights that wouldn't appear without the collaboration."
 
 "That sounds almost religious."
 
-Marcus laughed. "Maybe it is. Maybe collective intelligence is what religious community has always been about: participating in something larger than yourself, contributing to something that transcends individual minds."
+Marcus laughed. "Maybe it is. Maybe collective intelligence is what religious community has always been about: participating in something larger than yourself."
 
-He thought about his failed forum and his new one. The failed forum had been a collection of individuals performing for each other. The new one was becoming a genuine collaborative intelligence: minds thinking together, not just broadcasting at each other.
-
-The difference wasn't structural. Both forums had similar rules, similar interfaces, similar member profiles. The difference was in how people engaged. The failed forum optimized for individual expression. The healthy one optimized for collective insight.
-
-That difference was everything.
+He thought about his failed forums and his current one. The failures had been collections of individuals performing for each other. This one was becoming a genuine collaborative intelligence: minds thinking together, not just broadcasting at each other. And he was part of it now, not above it. Just another node, trying to listen.
 
 ## The Invitation
 
