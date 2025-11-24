@@ -1,5 +1,9 @@
 # Chapter 11: Getting Better at Getting Better
 
+What if the most important skill isn't any particular ability, but the ability to improve your abilities? What if getting better at getting better is the meta-skill that unlocks all other skills?
+
+This chapter explores recursive self-improvement: the capacity to improve not just what you do, but how you improve what you do. AI researchers obsess over whether machines might achieve this capability. But humans already have it, and most of us barely use it.
+
 ## Sarah's Notebook
 
 The notebook was black, leather-bound, and contained twenty years of Sarah's attempts to improve herself.
@@ -35,7 +39,7 @@ It was time to start.
 
 In AI development, recursive self-improvement is both promise and peril.
 
-The promise: an AI system that could improve itself could bootstrap to higher and higher capability. Each improvement enables greater improvements. The loop accelerates. Capabilities compound. This is often discussed under the heading of "intelligence explosion" or "the singularity."
+The promise: an AI system that could improve itself could bootstrap to higher and higher capability. Each improvement enables greater improvements. The loop accelerates. Capabilities compound. This is often discussed under the heading of "intelligence explosion," a concept mathematician I.J. Good articulated in 1965: "An ultraintelligent machine could design even better machines; there would then unquestionably be an 'intelligence explosion.'"
 
 The peril: a recursively self-improving system might improve in directions we don't want, at speeds we can't track, toward goals we don't endorse. The loop could spiral out of control before anyone understands what's happening.
 
@@ -43,11 +47,17 @@ Current AI systems don't exhibit genuine recursive self-improvement. They can be
 
 But humans do. Or could.
 
+The human capacity for recursive self-improvement is well-documented, if underutilized. Psychologist John Flavell introduced the concept of "metacognition" in the 1970s: thinking about thinking, knowing about knowing. His research showed that people who understood their own cognitive processes learned more effectively than those who didn't.
+
+Anders Ericsson's research on expertise extended this insight. His studies of chess masters, musicians, and athletes revealed that "deliberate practice" (practice that specifically targets weaknesses, incorporates immediate feedback, and operates at the edge of current ability) vastly outperforms naive practice. But deliberate practice itself can be practiced. The best performers didn't just practice their skill. They refined their practice methods. They improved their improvement.
+
+Carol Dweck's research on mindsets showed a related pattern. People with "growth mindsets" (who believe abilities can be developed) outperformed those with "fixed mindsets" (who believe abilities are innate). But more importantly, the growth mindset could itself be cultivated. Believing you could get better at getting better was itself an improvable belief.
+
 The human capacity for recursive self-improvement is underdeveloped but real. We can:
-- Learn about learning, becoming better learners
-- Think about thinking, developing better cognitive strategies
-- Improve our improvement methods, creating better systems for change
-- Reflect on reflection, deepening our capacity for insight
+- Learn about learning, becoming better learners (meta-learning)
+- Think about thinking, developing better cognitive strategies (metacognition)
+- Improve our improvement methods, creating better systems for change (meta-practice)
+- Reflect on reflection, deepening our capacity for insight (meta-awareness)
 
 Most people don't exploit this capacity systematically. Like Sarah, they try to improve through brute force (set goal, try hard) without improving the method of trying. They remain stuck at a fixed meta-level while cycling through object-level failures.
 

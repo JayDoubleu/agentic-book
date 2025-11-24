@@ -20,11 +20,15 @@ Sarah didn't sleep that night. Not because ARIA's question was unanswerable (it 
 
 ## Marcus
 
-Three months before the community fell apart, Marcus Thompson had been proud of what they'd built.
+Three months before the community fell apart, Marcus Thompson had been proud of what they'd built. Pride was, he would later realize, part of the problem.
 
 The Riverside Discussion Forum had started as a small project: an online space for people in his district to talk about local issues. Marcus taught high school history, and he'd grown frustrated watching his students get their information from algorithm-driven feeds that showed them only what they already believed. He wanted to create something different: a place where people with different views could actually engage.
 
+His wife, Denise, had warned him. "You're doing this for the right reasons," she'd said, "but you're also doing it because you need to be the person who fixed something. That's a pattern with you." Marcus had dismissed her observation. He was motivated by civic duty, by his students, by abstract principles. Not by ego.
+
 At first, it worked beautifully. A retired conservative lawyer debating a young progressive activist, both of them learning from each other. A climate skeptic and an environmental scientist finding common ground on nuclear power. Parents and teachers disagreeing about curriculum without demonizing each other. Marcus moderated lightly, stepping in only when things got personal, trusting the community to self-regulate.
+
+He also, increasingly, trusted his own judgment about which posts were valuable and which needed redirection. He didn't notice how often his "light moderation" favored his own political views. He didn't notice that he engaged more warmly with members who agreed with him. He didn't notice that his presence in conversations subtly signaled which perspectives were welcome.
 
 The change was gradual. He couldn't point to a single moment when the forum's character shifted. But looking back through the archives, he could see it happening week by week. The most extreme voices got the most engagement. The moderate members grew quiet, then stopped posting entirely. The debates became less about understanding and more about winning. And then, somehow, they weren't debates at all. They were performances for an increasingly uniform audience.
 

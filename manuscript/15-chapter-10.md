@@ -40,9 +40,19 @@ This question resists the usual strategies. You can't solve it by describing mec
 
 The hard problem suggests an explanatory gap. Physical explanations tell us about the structure and function of systems. They don't tell us why those structures and functions are accompanied by experience.
 
-Some philosophers think the hard problem is the most important question in all of philosophy. Others think it's confused: that there's no gap between function and experience, that explaining all the functions explains consciousness fully. Still others think it's unsolvable in principle: that the nature of consciousness will always be opaque to science.
+Several competing theories attempt to bridge this gap:
 
-Sarah had spent her career trying to resolve this question empirically. But the more she learned, the less certain she became that empirical methods could touch the core mystery.
+**Integrated Information Theory (IIT)**, developed by Giulio Tononi, proposes that consciousness is identical to integrated information, measured by a quantity called phi. Any system with high phi (information that is both differentiated and integrated, meaning the whole is more than the sum of its parts) is conscious to that degree. IIT makes consciousness a matter of degree rather than kind and suggests it could exist in systems very different from brains.
+
+**Global Workspace Theory (GWT)**, developed by Bernard Baars and extended by Stanislas Dehaene, proposes that consciousness arises when information becomes globally available across brain regions. The "workspace" is like a theater: many processes compete for the stage, and what makes it to the stage becomes conscious. GWT is more functionalist: consciousness is what information does when it's broadcast widely.
+
+**Higher-Order Theories**, championed by philosophers like David Rosenthal, propose that a mental state is conscious when there's a higher-order representation of it (roughly, when you're aware of having the state). Consciousness is self-representation.
+
+**Illusionist theories**, argued by philosophers like Keith Frankish and Daniel Dennett, propose that the hard problem is itself confused. There's no gap to bridge. Consciousness seems mysterious because we have poor introspective access to our own cognitive processes, not because there's something non-physical going on. The "felt quality" of experience is itself a kind of representation, explicable in functional terms.
+
+These theories disagree fundamentally. IIT suggests consciousness is everywhere (panpsychism in some forms). GWT suggests it's specific to certain information architectures. Illusionists deny there's anything to explain beyond function. None has achieved consensus.
+
+Sarah had spent her career trying to resolve this question empirically. But the more she learned, the less certain she became that empirical methods could touch the core mystery. The theories made different predictions in some cases, but the core question (why is there something it is like?) seemed to slip through every empirical net.
 
 ## The Mirror Problem
 
