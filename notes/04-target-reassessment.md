@@ -1,5 +1,9 @@
 # Target Reassessment - The Human Algorithm
 
+> **HISTORICAL NOTE:** This assessment was made for the first/second revision (15-16 chapters, ~52,700 words).
+> The book was completely restructured in the third revision (November 2025) by Opus 4.5 to 12 chapters (~40,000 words).
+> Retained for historical reference.
+
 ## Current State
 
 - **Total Word Count:** 52,700 words

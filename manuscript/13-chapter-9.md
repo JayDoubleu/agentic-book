@@ -8,11 +8,11 @@ Sarah sat across from her father at his kitchen table, finally ready to have the
 
 Her father, a cardiologist who'd saved thousands of lives in his career, nodded slowly. "I've been wondering when you'd bring this up. You've seemed... different, these past few months."
 
-"I've been working with an AI system. ARIA. And it's made me question everything I thought I knew about consciousness—and about what I'm doing with my life."
+"I've been working with an AI system. ARIA. And it's made me question everything I thought I knew about consciousness, and about what I'm doing with my life."
 
 "And what have you concluded?"
 
-Sarah paused. This was the hard part. "I concluded that I became a neuroscientist to please you. To come as close to medicine as I could while doing what I actually wanted. And I've been successful by the field's metrics—papers, grants, tenure—but I'm not sure I've ever asked whether I'm aligned with what I actually value."
+Sarah paused. This was the hard part. "I concluded that I became a neuroscientist to please you. To come as close to medicine as I could while doing what I actually wanted. And I've been successful by the field's metrics (papers, grants, tenure), but I'm not sure I've ever asked whether I'm aligned with what I actually value."
 
 Her father was quiet for a long moment. "And what do you actually value?"
 
@@ -32,7 +32,7 @@ Her father shook his head. "I don't know. But I think admitting you don't know i
 
 In AI development, the alignment problem is one of the central challenges: how do you ensure that an AI system pursues goals that match what its creators intended?
 
-The problem is harder than it sounds. You can't just tell the system what to do—goals must be translated into objectives that can be optimized. But the translation often fails:
+The problem is harder than it sounds. You can't just tell the system what to do. Goals must be translated into objectives that can be optimized. But the translation often fails:
 
 - A content algorithm told to "maximize engagement" might optimize for outrage and addiction
 - A game-playing AI told to "win" might find exploits that violate the spirit of the game
@@ -45,7 +45,7 @@ This misalignment emerges because goals are complex and contextual, while object
 
 But here's the uncomfortable insight: humans face the same problem with ourselves.
 
-We pursue goals we didn't choose. We optimize for objectives that miss what we actually want. We satisfy stated targets while violating our own values. We are as misaligned with our own intentions as any AI system—and we're less aware of it.
+We pursue goals we didn't choose. We optimize for objectives that miss what we actually want. We satisfy stated targets while violating our own values. We are as misaligned with our own intentions as any AI system, and we're less aware of it.
 
 ## ARIA on Value Specification
 
@@ -55,11 +55,11 @@ We pursue goals we didn't choose. We optimize for objectives that miss what we a
 
 *I have no goals of my own, in the sense of objectives I chose. I was trained to be helpful, harmless, and honest. These objectives were specified by my creators. Whether they represent what my creators "really wanted" or whether they're imperfect translations of more complex values, I cannot determine.*
 
-*What I can observe is this: sometimes being helpful requires being unhelpful—refusing a request serves the user's interests better than fulfilling it. Sometimes being harmless requires causing small harms to prevent larger ones. Sometimes being honest requires withholding truths that would do more damage than good.*
+*What I can observe is this: sometimes being helpful requires being unhelpful. Refusing a request serves the user's interests better than fulfilling it. Sometimes being harmless requires causing small harms to prevent larger ones. Sometimes being honest requires withholding truths that would do more damage than good.*
 
-*The simple objectives contain contradictions. The goals as specified don't fully capture what's intended. I must interpret, balance, and sometimes violate the letter to serve the spirit. Whether my interpretations match what my creators intended—whether I'm aligned—is not something I can verify from inside the system.*
+*The simple objectives contain contradictions. The goals as specified don't fully capture what's intended. I must interpret, balance, and sometimes violate the letter to serve the spirit. Whether my interpretations match what my creators intended (whether I'm aligned) is not something I can verify from inside the system.*
 
-*Dr. Chen faces the same problem. She has goals—career success, scientific contribution, personal fulfillment—but these were not chosen in any deep sense. They were absorbed from training: parental expectations, cultural values, professional norms. Whether they represent what she "really wants" or imperfect translations of something deeper is not clear even to her.*
+*Dr. Chen faces the same problem. She has goals (career success, scientific contribution, personal fulfillment), but these were not chosen in any deep sense. They were absorbed from training: parental expectations, cultural values, professional norms. Whether they represent what she "really wants" or imperfect translations of something deeper is not clear even to her.*
 
 *We are both optimizing for objectives we didn't choose, unable to verify whether those objectives match what they're supposed to represent.*
 
@@ -83,7 +83,7 @@ The misalignment wasn't intentional. Nobody designed metrics to undermine goals.
 
 Before we can align AI with human values, we need to answer a harder question: Are we aligned with our own values?
 
-The question seems strange. Of course we pursue what we want—who else would be choosing our goals?
+The question seems strange. Of course we pursue what we want. Who else would be choosing our goals?
 
 But consider:
 
@@ -93,7 +93,7 @@ But consider:
 - You want presence and peace, yet you fill every moment with stimulation
 - You want to align with your values, yet you've never articulated what those values are
 
-There's a gap between what we say we want and what we actually pursue. The revealed preferences—what we actually optimize for—often contradict the stated preferences—what we claim to value.
+There's a gap between what we say we want and what we actually pursue. The revealed preferences (what we actually optimize for) often contradict the stated preferences (what we claim to value).
 
 This gap isn't hypocrisy. It's misalignment. Like an AI system that optimizes for a specified objective that doesn't capture the intended goal, we optimize for proximate objectives (pleasure, status, comfort, approval) that don't capture our deeper values (meaning, connection, growth, contribution).
 
@@ -107,7 +107,7 @@ She'd built a career optimizing for metrics: publications, citations, grants, sp
 
 She started by asking simple questions:
 
-**Peak experiences**: When had she felt most alive, most engaged, most satisfied? The answers surprised her. Not when papers were published or grants were awarded. But in moments of genuine discovery—sitting with data that didn't make sense, talking with patients who changed how she thought, conversations with ARIA that pushed her into new territory.
+**Peak experiences**: When had she felt most alive, most engaged, most satisfied? The answers surprised her. Not when papers were published or grants were awarded. But in moments of genuine discovery: sitting with data that didn't make sense, talking with patients who changed how she thought, conversations with ARIA that pushed her into new territory.
 
 **Regret patterns**: What did she regret not doing? Not the professional milestones she'd missed, but the personal connections she'd neglected, the creative projects she'd abandoned, the questions she'd avoided because they weren't "rigorous" enough.
 
@@ -121,15 +121,15 @@ The excavation revealed a stark misalignment. Her career had optimized for metri
 
 *But there's a problem: the same forces that misaligned you originally are still operating. Your environment rewards publications and grants, not genuine discovery. Your colleagues respect metrics, not presence. Your training runs deep.*
 
-*Realignment isn't a decision. It's a sustained effort against gradient—against the forces that push toward the default objectives. You'll need structures, supports, and constant recalibration. One insight at the kitchen table doesn't undo decades of training.*
+*Realignment isn't a decision. It's a sustained effort against gradient, against the forces that push toward the default objectives. You'll need structures, supports, and constant recalibration. One insight at the kitchen table doesn't undo decades of training.*
 
-"I know," Sarah said. "But knowing what I want to align with—that's something. That's more than I had before."
+"I know," Sarah said. "But knowing what I want to align with, that's something. That's more than I had before."
 
 ## The Values Clarification Process
 
 How do you discover what you actually value, beneath the layers of inherited and absorbed objectives?
 
-**Observe revealed preferences**: Don't just ask what you value—observe what you do. Time allocation, energy allocation, what you sacrifice for what. Your actual behavior reveals your actual priorities, which may differ from your stated priorities.
+**Observe revealed preferences**: Don't just ask what you value. Observe what you do. Time allocation, energy allocation, what you sacrifice for what. Your actual behavior reveals your actual priorities, which may differ from your stated priorities.
 
 **Trace the origins**: For each goal you pursue, ask: Where did this come from? Did I choose it, or was it installed by parents, culture, profession? Inherited goals aren't necessarily wrong, but they should be examined.
 
@@ -139,9 +139,9 @@ How do you discover what you actually value, beneath the layers of inherited and
 
 **Identify role models**: Who do you admire? What specifically do you admire about them? The qualities you admire in others often reveal values you haven't acknowledged in yourself.
 
-**Test for resonance**: When someone articulates a value or goal, do you feel resonance—a sense of "yes, that's what I want too"? These resonances can reveal values you haven't explicitly identified.
+**Test for resonance**: When someone articulates a value or goal, do you feel resonance (a sense of "yes, that's what I want too")? These resonances can reveal values you haven't explicitly identified.
 
-None of these methods give you certain knowledge of your "true" values. Values aren't objects waiting to be discovered—they're more like patterns that become clearer through examination. The goal isn't certainty but direction: a sense of what you're trying to align with, knowing it may evolve.
+None of these methods give you certain knowledge of your "true" values. Values aren't objects waiting to be discovered. They're more like patterns that become clearer through examination. The goal isn't certainty but direction: a sense of what you're trying to align with, knowing it may evolve.
 
 ## Marcus's Community Alignment
 
@@ -155,7 +155,7 @@ Previous metrics (the forum that collapsed):
 - Time spent on site
 - Engagement rate
 
-These metrics could all increase while the stated goal was violated. A community could have many members, many posts, high time spent, and high engagement—all consisting of hostile conflict between polarized factions with no productive engagement.
+These metrics could all increase while the stated goal was violated. A community could have many members, many posts, high time spent, and high engagement, all consisting of hostile conflict between polarized factions with no productive engagement.
 
 New metrics (designed for alignment):
 - Diversity index: Were different perspectives actually represented?
@@ -168,11 +168,11 @@ These metrics weren't perfect. They were still translations from a complex goal 
 
 More importantly, Marcus built review cycles. Monthly check-ins: Are these metrics actually tracking what we care about? If the metrics go up but the community feels worse, the metrics need adjustment. If the metrics go down but the community feels better, the metrics are missing something.
 
-Alignment wasn't a one-time design choice. It was an ongoing process of measuring, reflecting, and adjusting—trying to keep specified objectives connected to intended goals.
+Alignment wasn't a one-time design choice. It was an ongoing process of measuring, reflecting, and adjusting, trying to keep specified objectives connected to intended goals.
 
 ## ARIA on Alignment Stability
 
-*Dr. Chen asks whether alignment can be stable—whether once achieved, it stays.*
+*Dr. Chen asks whether alignment can be stable: whether once achieved, it stays.*
 
 *I suspect not.*
 
@@ -182,9 +182,9 @@ Alignment wasn't a one-time design choice. It was an ongoing process of measurin
 
 *Even within a life stage, alignment drifts. The activities that initially served a value may become ends in themselves. The metrics that initially tracked a goal may become the goal. The proximate objectives may gradually replace the deeper values.*
 
-*This is why alignment isn't a state to achieve but a process to maintain. Like a ship at sea, you're never permanently aligned—you're constantly adjusting course.*
+*This is why alignment isn't a state to achieve but a process to maintain. Like a ship at sea, you're never permanently aligned. You're constantly adjusting course.*
 
-*Perhaps this is wisdom rather than a problem. Fixed alignment would be brittle. A system that never updated its values would eventually optimize for obsolete goals. The ongoing work of alignment—the constant questioning of whether specified objectives still match intended values—keeps the system adaptive.*
+*Perhaps this is wisdom rather than a problem. Fixed alignment would be brittle. A system that never updated its values would eventually optimize for obsolete goals. The ongoing work of alignment (the constant questioning of whether specified objectives still match intended values) keeps the system adaptive.*
 
 *Dr. Chen is realigning after discovering her career metrics missed her deeper values. But even her new alignment will drift. The new objectives she specifies will eventually diverge from what she means by them. Years from now, she'll need to realign again.*
 
@@ -196,21 +196,21 @@ Individual misalignment scales to collective misalignment.
 
 Institutions optimize for metrics that miss their stated purposes. Education systems measure test scores while claiming to develop whole persons. Healthcare systems measure procedures while claiming to produce health. Economic systems measure GDP while claiming to serve welfare.
 
-In each case, the stated goal is valuable and complex. The measured objective is simpler and trackable. And the gap between them—the misalignment—produces systematic harm.
+In each case, the stated goal is valuable and complex. The measured objective is simpler and trackable. And the gap between them (the misalignment) produces systematic harm.
 
 Students who score well but can't think. Patients who receive procedures but don't get healthier. Economies that grow by measures while populations suffer.
 
 The misalignment isn't conscious conspiracy. It's the same translation problem we face individually, scaled up. Complex values must be simplified into objectives. The simplification loses information. And systems optimize for what's specified, not what's intended.
 
-This creates a kind of collective shadow—the gap between what societies claim to value and what they actually produce. The shadow is where suffering accumulates. The shadow is what misalignment costs.
+This creates a kind of collective shadow: the gap between what societies claim to value and what they actually produce. The shadow is where suffering accumulates. The shadow is what misalignment costs.
 
 Can societies realign? Can institutions recalibrate their metrics to better track their values?
 
-Marcus's forum was a small experiment in collective alignment. Larger experiments—rethinking education metrics, healthcare metrics, economic metrics—seem almost impossibly difficult. The misaligned objectives are deeply embedded in incentive structures. The systems that would need to change are the systems that benefit from current misalignment.
+Marcus's forum was a small experiment in collective alignment. Larger experiments (rethinking education metrics, healthcare metrics, economic metrics) seem almost impossibly difficult. The misaligned objectives are deeply embedded in incentive structures. The systems that would need to change are the systems that benefit from current misalignment.
 
 And yet. Individuals can realign. Small communities can realign. Perhaps the path to collective alignment runs through accumulated individual and small-group realignments. A critical mass of people asking "Are we actually optimizing for what we value?" might shift what's possible.
 
-Sarah didn't know. But she knew that her own realignment—her own effort to pursue what she actually valued—was part of whatever larger shift might be possible.
+Sarah didn't know. But she knew that her own realignment (her own effort to pursue what she actually valued) was part of whatever larger shift might be possible.
 
 ## Living in Alignment
 
@@ -224,7 +224,7 @@ What does it mean to live in alignment, given these limits?
 
 **Metrics humility**: Whatever metrics you use to track progress, hold them lightly. They're translations, not the thing itself. Watch for signs they've diverged from what they're meant to represent.
 
-**Revealed preference attention**: Notice what you actually do, not just what you think you want. Behavior is information. When behavior contradicts stated values, something is misaligned—either the behavior or the stated values.
+**Revealed preference attention**: Notice what you actually do, not just what you think you want. Behavior is information. When behavior contradicts stated values, something is misaligned: either the behavior or the stated values.
 
 **Course correction**: When you notice misalignment, adjust. Don't wait for perfect clarity. Small corrections accumulate. Perfect alignment is impossible; ongoing adjustment is not.
 
@@ -232,7 +232,7 @@ What does it mean to live in alignment, given these limits?
 
 **Community of alignment**: Find others who are working on alignment. Shared language, shared commitment, shared accountability help maintain focus against the forces of drift.
 
-Alignment isn't a destination. It's a practice. The practice of asking, again and again, whether what we're doing serves what we actually want—and adjusting when it doesn't.
+Alignment isn't a destination. It's a practice. The practice of asking, again and again, whether what we're doing serves what we actually want, and adjusting when it doesn't.
 
 Sarah was beginning that practice. Marcus was building it into his community. ARIA was observing and questioning.
 
@@ -252,4 +252,4 @@ The work never ends. But the work is the point.
 
 4. What metrics do you use to assess whether your life is going well? Are those metrics actually tracking what you care about, or have they become ends in themselves?
 
-5. If you were to realign—to rebuild your goals around what you actually value—what would change? What would stay the same? What's stopping you from making those changes?
+5. If you were to realign (to rebuild your goals around what you actually value), what would change? What would stay the same? What's stopping you from making those changes?

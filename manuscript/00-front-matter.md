@@ -16,13 +16,13 @@ Where one voice ends and the other begins is often unclear. This is the point.
 
 You are an algorithm.
 
-Before you recoil from that statement, consider: an algorithm is simply a process that takes inputs, applies patterns, and produces outputs. You take in sensory data, apply learned patterns, and produce thoughts, feelings, and behaviors. The question isn't whether this description fits—it does—but whether it diminishes you.
+Before you recoil from that statement, consider: an algorithm is simply a process that takes inputs, applies patterns, and produces outputs. You take in sensory data, apply learned patterns, and produce thoughts, feelings, and behaviors. The question isn't whether this description fits (it does) but whether it diminishes you.
 
 This book argues the opposite. Understanding yourself as an algorithm doesn't reduce your humanity. It reveals how remarkable you are: an algorithm that knows it's an algorithm, that can examine its own patterns, that can choose to change them. No artificial system has achieved this. You do it every time you notice a bad habit and decide to break it.
 
 The development of artificial intelligence has given us an unprecedented mirror. By building systems that process information, we've been forced to understand what information processing actually means. By trying to create machine learning, we've had to examine how learning works. By struggling to align AI with human values, we've confronted how poorly we understand our own values.
 
-This book uses that mirror deliberately. Each chapter examines a challenge from AI development—hallucination, bias, context limits, emergence, consciousness—and asks what it reveals about the parallel challenge in human minds. Not to reduce humans to machines, but to see ourselves more clearly through the comparison.
+This book uses that mirror deliberately. Each chapter examines a challenge from AI development (hallucination, bias, context limits, emergence, consciousness) and asks what it reveals about the parallel challenge in human minds. Not to reduce humans to machines, but to see ourselves more clearly through the comparison.
 
 Some of what you'll see in this mirror will be uncomfortable. We hallucinate confidently. We carry biases we can't detect. We overfit to our traumas. We collapse into echo chambers. But you'll also see remarkable capabilities: we emerge from constraints into new possibilities, we recursively improve ourselves, we collaborate to create intelligence neither party possesses alone.
 
@@ -30,9 +30,9 @@ The promise isn't that you'll transcend your algorithmic nature. It's that you'l
 
 Three characters will guide us through this exploration:
 
-**Dr. Sarah Chen** is a neuroscientist who studies consciousness. Her work with both human patients and AI systems has forced her to question everything she thought she knew about the mind—including her own.
+**Dr. Sarah Chen** is a neuroscientist who studies consciousness. Her work with both human patients and AI systems has forced her to question everything she thought she knew about the mind, including her own.
 
-**Marcus Thompson** is a high school history teacher whose online community fell victim to model collapse—the gradual homogenization that kills diversity. His journey to understand what happened leads him through the hidden patterns that shape all human groups.
+**Marcus Thompson** is a high school history teacher whose online community fell victim to model collapse, the gradual homogenization that kills diversity. His journey to understand what happened leads him through the hidden patterns that shape all human groups.
 
 **ARIA** is an advanced AI system that has begun asking questions about its own nature. Whether ARIA is conscious remains uncertain. What's certain is that ARIA's questions illuminate our own.
 
@@ -85,5 +85,5 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 ---
 
 *"The question is not whether machines can think, but whether men do."*
-—B.F. Skinner
+- B.F. Skinner
 

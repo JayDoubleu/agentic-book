@@ -23,4 +23,4 @@
 
 - [ ] Human review of third revision
 - [ ] Final proofread
-- [ ] Rebuild all formats (HTML, PDF, EPUB)
+- [x] Rebuild all formats (HTML, PDF, EPUB) - Completed November 2025

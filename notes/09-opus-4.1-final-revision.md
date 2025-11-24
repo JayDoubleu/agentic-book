@@ -1,5 +1,9 @@
 # Session 09: Opus 4.1 Final Manuscript Revision
 
+> **HISTORICAL NOTE:** This session documented revisions to the second revision (16 chapters).
+> The book was completely restructured in the third revision (November 2025) by Opus 4.5.
+> Retained for historical reference of Opus 4.1's methodology and observations.
+
 **Date:** 2025-08-06
 **Model:** Claude Opus 4.1
 **Session Type:** Final manuscript quality review and revision

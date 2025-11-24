@@ -84,10 +84,10 @@ bash build/scripts/build.sh clean
 
 ## Output
 
-All generated files are placed in the `output/` directory:
+All generated files are placed in the `book/` directory:
 
 ```
-output/
+book/
 ├── epub/
 │   └── the-human-algorithm.epub
 ├── html/

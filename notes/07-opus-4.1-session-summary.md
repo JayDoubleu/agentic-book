@@ -1,5 +1,9 @@
 # Opus 4.1 Enhancement Session Summary
 
+> **HISTORICAL NOTE:** This session documented the second revision (16 chapters) by Opus 4.1.
+> The book was completely restructured in the third revision (November 2025) by Opus 4.5,
+> replacing most of these changes with a new structure. Retained for historical reference.
+
 **Date:** January 29, 2025
 **Model:** Claude Opus 4.1
 **Book:** The Human Algorithm

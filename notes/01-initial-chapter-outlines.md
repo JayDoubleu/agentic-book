@@ -1,5 +1,10 @@
 # Chapter Outlines - The Human Algorithm
 
+> **HISTORICAL NOTE:** This document contains the original chapter outlines from the first draft (Opus 4).
+> The book was completely restructured in the third revision (November 2025) by Opus 4.5 with a new
+> 12-chapter structure, recurring characters, and narrative-focused approach.
+> Retained for historical reference of the original vision.
+
 ## Introduction: The Mirror We Built
 
 **Target Length:** 2,500 words
