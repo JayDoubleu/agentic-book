@@ -58,14 +58,56 @@ From first prompt to book completion:
 
 - **Date:** November 2025
 - **Model:** Claude Opus 4.5
-- **Key Changes:**
-  - Complete rewrite from scratch
-  - Reduced from 16 to 12 chapters
-  - Introduced three recurring characters (Sarah, Marcus, ARIA)
-  - Reorganized into 4 parts around human development
-  - Shifted to 50/50 narrative-to-exposition ratio
-  - New central theme: "You are an algorithm that knows it's an algorithm"
-  - ~3,300 lines of new content
+- **Session Type:** Complete manuscript restructure
+
+### Key Structural Changes
+
+- Complete rewrite from scratch (not incremental revision)
+- Reduced from 16 to 12 chapters for deeper exploration
+- Introduced three recurring characters with developmental arcs:
+  - Dr. Sarah Chen (neuroscientist studying consciousness)
+  - Marcus Thompson (history teacher, community builder)
+  - ARIA (advanced AI questioning its own nature)
+- Reorganized from 5 parts (AI-concept-first) to 4 parts (human-development-first):
+  - Part I: The Making of Mind
+  - Part II: The Limits of Self
+  - Part III: The Possibility of Change
+  - Part IV: The Future of Mind
+- Shifted narrative-to-exposition ratio from 20/80 to 50/50
+- New central theme: "You are an algorithm that knows it's an algorithm"
+
+### Philosophy Behind Changes
+
+- **Narrative-first architecture:** Characters drive chapters, not concepts
+- **Human-centered organization:** About us, using AI as the revealing lens
+- **Empowering framing:** Algorithmic nature as strength, not limitation
+- **Cumulative investment:** Character arcs create engagement isolated examples cannot
+
+### Content Statistics
+
+- **Lines changed:** ~3,300 lines added, ~6,700 lines removed
+- **Files modified:** 40 (all manuscript files replaced)
+- **Word count:** ~55,000 (v2) to ~40,000 (v3)
+- **Chapters:** 16 to 12
+- **Parts:** 5 to 4
+
+### What Was Preserved
+
+- Core insight: AI development reveals human nature
+- Mirror metaphor as organizing principle
+- Accessible, jargon-free tone
+- Honest uncertainty about consciousness and AI experience
+- Practical focus on self-understanding
+- Cultural diversity from Opus 4.1 revision
+
+### What Was Changed
+
+- Organization: AI-concept-first to human-development-first
+- Characters: Isolated examples to recurring protagonists
+- Theme: "Understand AI" to "Understand yourself through AI"
+- Depth: Fewer chapters allows richer exploration each
+
+See `10-opus-4.5-session-summary.md` for complete session documentation.
 
 ## Combined Total Stats (All Sessions)
 
