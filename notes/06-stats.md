@@ -2,9 +2,9 @@
 
 ## Project Summary
 
-This book was created in **3 sessions total** using Claude Code.
+This book was created across **4 major sessions** using Claude Code.
 
-## Initial Book Creation Session
+## Initial Book Creation Session (Opus 4)
 
 From first prompt to book completion:
 
@@ -54,10 +54,31 @@ From first prompt to book completion:
   - Meta-reflections on the book's own creation
   - Updated front matter and conclusion
 
+## Opus 4.5 Complete Restructure Session
+
+- **Date:** November 2025
+- **Model:** Claude Opus 4.5
+- **Key Changes:**
+  - Complete rewrite from scratch
+  - Reduced from 16 to 12 chapters
+  - Introduced three recurring characters (Sarah, Marcus, ARIA)
+  - Reorganized into 4 parts around human development
+  - Shifted to 50/50 narrative-to-exposition ratio
+  - New central theme: "You are an algorithm that knows it's an algorithm"
+  - ~3,300 lines of new content
+
 ## Combined Total Stats (All Sessions)
 
-- **Total cost:** $157.07 (prior sessions) + current session
-- **Total API time:** ~4h 22m + current session
-- **Total wall time:** ~6h 37m + current session
-- **Total changes:** 9,643 lines added, 1,834 lines removed + ~500 lines added in Opus 4.1 session
-- **Final word count:** ~55,000+ words
+- **Total cost:** ~$157+ (prior sessions) + Opus 4.5 session
+- **Total API time:** ~4h 22m + additional sessions
+- **Models used:** Claude Opus 4, Opus 4.1, Opus 4.5, Haiku 3.5
+- **Final word count:** ~40,000 words (third revision)
+- **Revision count:** 3 major revisions
+
+## Book Evolution
+
+| Version | Chapters | Words | Focus |
+|---------|----------|-------|-------|
+| v1 (Opus 4) | 15 | ~36k | AI concepts as metaphors |
+| v2 (Opus 4.1) | 16 | ~55k | Added collaboration chapter |
+| v3 (Opus 4.5) | 12 | ~40k | Narrative-driven, recurring characters |
