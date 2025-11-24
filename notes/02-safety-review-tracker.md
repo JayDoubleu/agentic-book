@@ -1,5 +1,10 @@
 # Safety and Content Review Tracker
 
+> **HISTORICAL NOTE:** This safety review was conducted on the first/second revision structure (16 chapters).
+> The book was completely restructured in the third revision (November 2025) by Opus 4.5 to 12 chapters.
+> A new safety review would be needed for the current version.
+> Retained for historical reference of the review methodology and findings.
+
 This document tracks the safety review of all manuscript files to ensure responsible AI content and identify any potentially controversial or concerning material before publication.
 
 ## Review Criteria

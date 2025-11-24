@@ -1,5 +1,9 @@
 # Final Review Tracker - The Human Algorithm
 
+> **HISTORICAL NOTE:** This review tracker covers the first/second revision (16 chapters, Opus 4 and 4.1).
+> The book was completely restructured in the third revision (November 2025) by Opus 4.5 to 12 chapters.
+> Retained for historical reference of the review process and Opus 4.1 enhancements.
+
 ## Review Status Overview
 
 - **Start Date:** January 28, 2025

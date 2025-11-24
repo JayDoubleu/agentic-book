@@ -1,5 +1,9 @@
 # Formatting and Aesthetics Tracker
 
+> **HISTORICAL NOTE:** This document references the first/second revision structure (16 chapters).
+> The book was completely restructured in the third revision (November 2025) by Opus 4.5 to 12 chapters.
+> Retained for historical reference of the revision process.
+
 This document tracks formatting review and fixes for all manuscript files to ensure consistent, professional presentation.
 
 ## Review Checklist for Each File

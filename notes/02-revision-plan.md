@@ -1,5 +1,10 @@
 # Second Draft Revision Plan
 
+> **HISTORICAL NOTE:** This revision plan was created for the first-to-second revision.
+> The book was completely restructured in the third revision (November 2025) by Opus 4.5,
+> superseding this plan with a fundamentally different approach (12 chapters, recurring characters).
+> Retained for historical reference.
+
 ## Overview
 
 Target: Expand from 36,233 to 50,000-55,000 words (+14-19k words)

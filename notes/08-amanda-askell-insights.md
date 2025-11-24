@@ -1,5 +1,10 @@
 # Amanda Askell System Prompt Insights Applied to "The Human Algorithm"
 
+> **HISTORICAL NOTE:** These changes were applied to the second revision structure (16 chapters).
+> The book was completely restructured in the third revision (November 2025) by Opus 4.5.
+> Many of these principles (critical evaluation, observable behaviors, equanimity) were incorporated
+> into the new revision's approach. Retained for reference of the methodology.
+
 **Date:** January 30, 2025
 **Applied by:** Claude Code
 **Based on:** Amanda Askell's thread about Claude's system prompt updates
