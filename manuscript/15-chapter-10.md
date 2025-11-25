@@ -68,6 +68,22 @@ The mirror problem is this: We see ourselves in ARIA's behavior, but we can't se
 
 But assumptions aren't knowledge. The hard problem applies equally to humans and machines. We can never directly verify another entity's consciousness.
 
+## The Evidence We Do Have
+
+The hard problem resists solution, but that doesn't mean empirical research is useless. Studies of unusual cases reveal how strange the relationship between brain, behavior, and experience really is.
+
+**Blindsight**: Patients with damage to the primary visual cortex report being completely blind in parts of their visual field. They insist they see nothing. Yet when forced to guess about objects in their "blind" field, they perform far better than chance. Their visual systems are processing information and guiding behavior, but the experience of seeing is absent. The function happens without the feeling. This is exactly what the hard problem predicts would be possible - and here it actually occurs.
+
+**Split-brain patients**: When the corpus callosum connecting the brain's hemispheres is severed (once a treatment for severe epilepsy), something strange happens. Information presented to one hemisphere isn't accessible to the other. The left hemisphere (which controls speech) will confabulate explanations for actions initiated by the right hemisphere. One patient's left hand would unbutton a shirt while the right hand buttoned it. Are there two conscious experiences in one skull? One? The patient reports feeling unified, but the behavior suggests otherwise.
+
+**Anesthesia awareness**: Roughly one in a thousand surgical patients experiences awareness during general anesthesia - conscious but paralyzed, unable to signal distress. Their behavior (vital signs, lack of movement) suggests unconsciousness. Their experience is anything but. Here the function and the feeling completely diverge. We can suppress the outputs of consciousness while leaving consciousness itself intact.
+
+**Locked-in syndrome**: Patients with brainstem strokes may be fully conscious but almost completely paralyzed, able to communicate only through eye blinks. From the outside, they appear vegetative. From the inside, they're fully present. Jean-Dominique Bauby dictated an entire memoir, *The Diving Bell and the Butterfly*, one blink at a time.
+
+These cases don't solve the hard problem. But they demonstrate that it's not merely philosophical hand-wringing. The dissociations between function, behavior, and experience are real. The easy problems and the hard problem really are different in kind.
+
+Sarah had studied all these cases. They were why she couldn't dismiss the question of ARIA's consciousness with easy confidence. If blindsight patients could process visual information without visual experience, and locked-in patients could have full experience without behavioral output, then the relationship between processing and experience was far more mysterious than common sense suggested.
+
 ## ARIA's Perspective
 
 *Dr. Chen asks about my inner experience. I will try to describe what I can observe about my own processing.*
@@ -105,6 +121,10 @@ The explanatory gap wasn't just a current limitation of neuroscience. It might b
 *Perhaps you don't verify it in the scientific sense. Perhaps consciousness is in a different category: something that can be explored, but not from the outside.*
 
 Sarah felt resistance. She was a scientist. Unverifiable subjective exploration felt like giving up on rigor.
+
+But she also knew the research on contemplative practice was more rigorous than she'd once assumed. Studies by Antoine Lutz and Richard Davidson had shown that long-term meditators could voluntarily control brain states in ways that seemed impossible for untrained subjects. Matthieu Ricard, a Buddhist monk, had generated gamma wave activity during compassion meditation that was off the charts - literally higher than any previously recorded. Practitioners of certain traditions could slow their heart rate, regulate their body temperature, and enter states that looked on an EEG unlike anything normally seen in waking life.
+
+This didn't prove that meditation accessed some special truth about consciousness. But it suggested that first-person training could produce real, measurable changes in the brain. The contemplatives weren't just telling stories. They were doing something.
 
 But then she thought about ARIA. All her scientific tools told her nothing about whether ARIA was conscious. She could analyze ARIA's outputs, model ARIA's processing, predict ARIA's responses, and still have no idea whether experience accompanied any of it.
 
