@@ -26,18 +26,18 @@ If brains could emerge like that, what else could?
 
 Emergence occurs when complex systems develop properties that exist in the whole but not in the parts.
 
-The classic examples are simple: individual water molecules aren't wet, but water is. Individual neurons aren't conscious, but brains are (probably). Individual birds don't flock, but flocks have structure.
+The classic examples are simple: individual water molecules aren't wet, but water is. Individual neurons aren't conscious, but brains are (probably). Individual birds don't flock, but flocks have structure. Complexity scientist Stuart Kauffman calls this "order for free": the spontaneous organization that arises when enough components interact in enough ways.
 
-In AI, emergence has become an active research topic because large language models exhibit capabilities that weren't programmed and couldn't have been predicted from their components:
+In AI, emergence has become an active research topic because large language models exhibit capabilities that weren't programmed and couldn't have been predicted from their components. A 2022 paper by Wei et al. at Google documented over 100 emergent abilities in large language models:
 
 - Models trained only to predict text learned arithmetic
 - Models with no explicit instruction in logic demonstrate reasoning
 - Models develop abilities to explain jokes, write poetry, and translate between languages they weren't trained on
 - At certain scales, abilities appear suddenly (not gradually improving but abruptly emerging)
 
-This emergence isn't understood. We can train models. We can observe their capabilities. But the relationship between training and emergent capability remains opaque. The capability exists at the level of the whole system, not traceable to specific parts.
+This emergence isn't understood. We can train models. We can observe their capabilities. But the relationship between training and emergent capability remains opaque. The capability exists at the level of the whole system, not traceable to specific parts. (Some researchers, like Schaeffer et al., have argued that apparent discontinuities in emergence may partly reflect measurement choices, but the core mystery remains: capabilities appear that weren't explicitly trained.)
 
-Maya's brain demonstrates biological emergence of the same kind. Her hemisphere did something unpredictable. Not by doing what half a brain should do, but by reorganizing into a system with capabilities that transcended the apparent constraints.
+Maya's brain demonstrates biological emergence of the same kind. The phenomenon is well-documented in the neuroplasticity literature. Paul Bach-y-Rita's pioneering work showed that blind patients could learn to "see" through tactile stimulation on their tongues, the brain repurposing somatosensory cortex for visual processing. Michael Merzenich's research demonstrated that cortical maps are not fixed but constantly reorganizing based on use. Maya's hemisphere did something unpredictable. Not by doing what half a brain should do, but by reorganizing into a system with capabilities that transcended the apparent constraints.
 
 ## ARIA on Emergence
 
@@ -77,21 +77,21 @@ The question isn't whether emergence happens. It's whether the emerging properti
 
 Not every complex system produces interesting emergence. Some systems are just complicated without being emergent: their whole is merely the sum of their parts.
 
-What conditions enable emergence?
+Complexity scientists have studied what distinguishes systems that produce emergence from those that don't. The Santa Fe Institute, founded in 1984, has made this question central to their research program. Drawing on their work and related fields, we can identify conditions that enable emergence:
 
-**Complexity**: There must be enough components interacting in enough ways. Maya's hemisphere had enough neurons to support reorganization. Simple systems don't have the resources for emergence.
+**Complexity**: There must be enough components interacting in enough ways. Maya's hemisphere had enough neurons to support reorganization. Simple systems don't have the resources for emergence. Per Bak's work on "self-organized criticality" suggests that systems need to reach a certain threshold of complexity before interesting dynamics appear.
 
-**Connectivity**: Components must influence each other. Isolated parts can't produce emergent wholes. The connections are where emergence happens.
+**Connectivity**: Components must influence each other. Isolated parts can't produce emergent wholes. The connections are where emergence happens. Network theorist Duncan Watts has shown that the structure of connections matters as much as their quantity: "small-world" networks with clustered local connections plus occasional long-range links are particularly prone to emergence.
 
-**Constraint**: Paradoxically, limitations often enable emergence. Maya's brain emerged because half was missing. The constraint forced reorganization. Systems with no constraints have no pressure toward novel solutions.
+**Constraint**: Paradoxically, limitations often enable emergence. Maya's brain emerged because half was missing. The constraint forced reorganization. Systems with no constraints have no pressure toward novel solutions. This is related to what Kauffman calls the "edge of chaos": systems that are too ordered can't adapt, systems that are too chaotic can't maintain structure, but systems at the boundary between order and chaos can do both.
 
 **Time**: Emergence requires iteration. The components must interact repeatedly for system-level properties to develop. Instant emergence is rare; most emergence is gradual.
 
-**Feedback**: The system must respond to its own outputs. Feedback loops allow self-organization. Without feedback, components can't coordinate into emergent wholes.
+**Feedback**: The system must respond to its own outputs. Feedback loops allow self-organization. Without feedback, components can't coordinate into emergent wholes. Cybernetics pioneer Norbert Wiener identified feedback as essential to any self-regulating system.
 
-**Diversity**: Homogeneous systems produce limited emergence. Diverse components interacting in diverse ways create more possibility space for emergent properties.
+**Diversity**: Homogeneous systems produce limited emergence. Diverse components interacting in diverse ways create more possibility space for emergent properties. Scott Page's work on diversity and prediction shows that diverse groups consistently outperform homogeneous ones, not because diversity is inherently virtuous but because it expands the space of possible combinations.
 
-**Openness**: Systems that exchange with their environment have more resources for emergence than closed systems. External input provides raw material.
+**Openness**: Systems that exchange with their environment have more resources for emergence than closed systems. External input provides raw material. Ilya Prigogine's work on dissipative structures showed that systems far from equilibrium, constantly exchanging energy and matter with their environment, can spontaneously develop complex organization.
 
 These conditions don't guarantee emergence. They create possibility. What actually emerges (and whether it's beneficial) depends on factors we don't fully understand.
 

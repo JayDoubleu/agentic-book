@@ -22,11 +22,19 @@ And the system (the community) had learned from its new inputs. It learned that 
 
 Marcus stared at the spreadsheet tracking member departures. Each line represented a voice that had shaped the community, then fell silent. Each departure changed what the community would learn from going forward. Each changed what the forum would become.
 
-His community had been retrained. Not all at once, but message by message, departure by departure, new member by new member. The training data had changed, and so the system had changed.
+And then he did something that took him three days to work up the courage to do. He added a column tracking his own interactions with each departed member in the months before they left.
 
-"It's just like AI," his wife said when he explained what he'd found. "Garbage in, garbage out."
+The pattern was damning. Of the thirty-seven members who'd left in the first wave of departures (the diverse, challenging voices), Marcus had publicly disagreed with thirty-one of them. His disagreements were polite, reasoned, careful. But they were consistent. And they came from the founder, the person whose approval mattered most.
 
-But it wasn't garbage, exactly. It was a shift. The new members weren't bad people. They just carried different patterns. And those patterns, accumulated over thousands of interactions, had transformed the system into something none of the founders would have recognized.
+He hadn't driven them out with hostility. He'd driven them out with gentle, persistent, well-argued opposition to everything they said.
+
+"I was the training data," he told Denise, his voice hollow. "I wasn't just watching the system change. I was part of what changed it."
+
+Denise didn't say "I told you so." She just sat with him while he worked through it.
+
+"It's just like AI," she finally said. "Garbage in, garbage out."
+
+But it wasn't garbage, exactly. It was a shift. The new members weren't bad people. They just carried different patterns. And those patterns, accumulated over thousands of interactions, had transformed the system into something none of the founders would have recognized. But Marcus's own patterns had been part of that accumulation. His biases had shaped which voices felt welcome and which felt challenged. His engagement had trained the community as much as theirs had.
 
 ## The Formation of Mind
 
@@ -180,23 +188,31 @@ None of this gives you escape. You'll continue to be a trained system. But aware
 
 ## Marcus's Intervention
 
-Armed with his analysis, Marcus did something unusual: he started a new forum with explicit attention to its training data.
+Armed with his analysis, Marcus almost gave up. He spent three months away from online communities entirely, convinced that the patterns of collapse were inevitable, that any group would eventually homogenize, that the effort was pointless.
 
-He called it "Second Chances," and he designed it with the lessons of Riverside in mind.
+What changed his mind wasn't optimism. It was his students.
 
-First, he seeded it deliberately. Instead of waiting for whoever showed up, he personally invited people with diverse perspectives. He specifically recruited people who disagreed with each other and with him. The founding member base was his training data, and he curated it.
+He'd started teaching a unit on groupthink: the Bay of Pigs, the Challenger disaster, historical moments where smart people in groups made catastrophically stupid decisions. One of his students asked the obvious question: "If we know why groups fail, why don't we design groups that don't?"
 
-Second, he made disagreement structurally valuable. Members got recognition not for posts with the most agreement, but for posts that generated substantive response from people with different views. The reward structure shaped what would be learned.
+Marcus didn't have a good answer. But the question wouldn't let him go.
 
-Third, he limited the rate of new members. Instead of celebrating growth, he prioritized cultural stability. New members were added slowly, giving them time to absorb the community's norms before adding their own inputs.
+He started a new forum called "Second Chances." The first version failed within two months. He'd recruited diverse members, but he'd structured conversations the same way as before. The same patterns emerged. The same collapse began.
 
-Fourth, he created visibility. Weekly digests showed the ratio of agreement to disagreement, the diversity of active perspectives, the range of topics discussed. The community could see what it was training itself on.
+He tried again. The second version lasted four months before a conflict over moderation policy drove out half the members. Marcus had overcorrected: so afraid of imposing his own views that he'd failed to enforce any norms at all. The vacuum filled with the loudest voices.
 
-It was a small experiment. Marcus knew it might fail. But it was an attempt to be intentional about the training process rather than leaving it to chance.
+The third attempt, eight months after shutting down Riverside, finally started to work. Not because Marcus had found a perfect design, but because he'd failed enough to learn what didn't work.
+
+He seeded it deliberately, personally inviting people with diverse perspectives. He specifically recruited people who disagreed with each other and with him. Crucially, he also recruited someone to check his own behavior: a member named Keisha, a community organizer who'd been critical of Riverside, whose job was to flag when Marcus's own biases were shaping conversations.
+
+He made disagreement structurally valuable. Members got recognition not for posts with the most agreement, but for posts that generated substantive response from people with different views.
+
+He limited the rate of new members. Instead of celebrating growth, he prioritized cultural stability. New members were added slowly, giving them time to absorb the community's norms before adding their own inputs.
+
+He created visibility. Weekly digests showed the ratio of agreement to disagreement, the diversity of active perspectives, the range of topics discussed. The community could see what it was training itself on.
 
 "You're engineering the culture," one of the new members observed.
 
-"I'm trying to," Marcus admitted. "The alternative is letting it engineer itself, and I've seen where that goes."
+"I'm trying to," Marcus admitted. "I failed at it twice already. Maybe third time's the charm. Or maybe I'll fail again and learn something new."
 
 ## The Unchangeable and the Changeable
 

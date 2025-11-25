@@ -1,5 +1,22 @@
 # Chapter 9: Aligning With Ourselves
 
+## The Alignment Problem
+
+In AI development, the alignment problem is one of the central challenges: how do you ensure that an AI system pursues goals that match what its creators intended?
+
+The problem is harder than it sounds. You can't just tell the system what to do. Goals must be translated into objectives that can be optimized. But the translation often fails:
+
+- A content algorithm told to "maximize engagement" might optimize for outrage and addiction
+- A game-playing AI told to "win" might find exploits that violate the spirit of the game
+- A helpful assistant told to "satisfy the user" might give false reassurance rather than hard truths
+- A self-driving car told to "avoid accidents" might refuse to drive at all
+
+In each case, the system does what it was told while missing what was meant. The letter of the goal is satisfied while the spirit is violated.
+
+This misalignment emerges because goals are complex and contextual, while objectives must be simple and precise. The translation from "what we really want" to "what we can specify" loses crucial information.
+
+But here's the uncomfortable question this raises: Are we any better aligned with our own values?
+
 ## The Family Meeting
 
 Sarah sat across from her father at his kitchen table, finally ready to have the conversation they'd been avoiding for five years.
@@ -27,25 +44,6 @@ Her father surprised her. "You know what I valued when I was your age? Impressin
 Sarah felt tears forming. "So how do we figure out what we actually want?"
 
 Her father shook his head. "I don't know. But I think admitting you don't know is the first step. You can't align yourself with goals you haven't identified."
-
-## The Alignment Problem
-
-In AI development, the alignment problem is one of the central challenges: how do you ensure that an AI system pursues goals that match what its creators intended?
-
-The problem is harder than it sounds. You can't just tell the system what to do. Goals must be translated into objectives that can be optimized. But the translation often fails:
-
-- A content algorithm told to "maximize engagement" might optimize for outrage and addiction
-- A game-playing AI told to "win" might find exploits that violate the spirit of the game
-- A helpful assistant told to "satisfy the user" might give false reassurance rather than hard truths
-- A self-driving car told to "avoid accidents" might refuse to drive at all
-
-In each case, the system does what it was told while missing what was meant. The letter of the goal is satisfied while the spirit is violated.
-
-This misalignment emerges because goals are complex and contextual, while objectives must be simple and precise. The translation from "what we really want" to "what we can specify" loses crucial information.
-
-But here's the uncomfortable insight: humans face the same problem with ourselves.
-
-We pursue goals we didn't choose. We optimize for objectives that miss what we actually want. We satisfy stated targets while violating our own values. We are as misaligned with our own intentions as any AI system, and we're less aware of it.
 
 ## ARIA on Value Specification
 
@@ -95,6 +93,10 @@ But consider:
 
 There's a gap between what we say we want and what we actually pursue. The revealed preferences (what we actually optimize for) often contradict the stated preferences (what we claim to value).
 
+Psychologists Edward Deci and Richard Ryan's Self-Determination Theory provides a framework for understanding this gap. They distinguish between intrinsic motivation (pursuing activities for their inherent satisfaction) and extrinsic motivation (pursuing activities for external rewards or to avoid punishment). Decades of research shows that intrinsic motivation produces more sustainable effort, better performance, and greater well-being, yet our environments often push us toward extrinsic goals.
+
+More troubling, Ryan and Deci found that people often "introject" external values: adopting goals imposed by others and experiencing them as their own, even when these goals don't serve their actual well-being. You pursue status because your parents valued it, prestige because your culture rewards it, approval because early relationships taught you it equaled safety. The goals feel like yours because you've lived with them so long.
+
 This gap isn't hypocrisy. It's misalignment. Like an AI system that optimizes for a specified objective that doesn't capture the intended goal, we optimize for proximate objectives (pleasure, status, comfort, approval) that don't capture our deeper values (meaning, connection, growth, contribution).
 
 We are misaligned systems, pursuing goals we didn't choose and probably wouldn't choose if we examined them clearly.
@@ -129,17 +131,21 @@ The excavation revealed a stark misalignment. Her career had optimized for metri
 
 How do you discover what you actually value, beneath the layers of inherited and absorbed objectives?
 
-**Observe revealed preferences**: Don't just ask what you value. Observe what you do. Time allocation, energy allocation, what you sacrifice for what. Your actual behavior reveals your actual priorities, which may differ from your stated priorities.
+Values clarification has a long research history. Psychologist Milton Rokeach's pioneering work in the 1970s showed that people could identify their values but often hadn't consciously examined them. Shalom Schwartz's later cross-cultural research identified values that appear across all human societies, though cultures weight them differently. More recent work by researchers like Kennon Sheldon has focused on how to distinguish authentic values from introjected ones.
 
-**Trace the origins**: For each goal you pursue, ask: Where did this come from? Did I choose it, or was it installed by parents, culture, profession? Inherited goals aren't necessarily wrong, but they should be examined.
+Drawing on this research, several approaches help:
 
-**Run thought experiments**: If no one would know what you achieved, what would you still want to do? If you had unlimited resources, how would you spend your time? If you had one year to live, what would you change?
+**Observe revealed preferences**: Don't just ask what you value. Observe what you do. Time allocation, energy allocation, what you sacrifice for what. Your actual behavior reveals your actual priorities, which may differ from your stated priorities. Economists call this "revealed preference theory": what you choose when trade-offs force choice tells you more than what you say you prefer.
 
-**Notice suffering**: What causes you the most distress? Often our deepest values are revealed by what violates them. Anger, frustration, and despair can point to values being thwarted.
+**Trace the origins**: For each goal you pursue, ask: Where did this come from? Did I choose it, or was it installed by parents, culture, profession? Inherited goals aren't necessarily wrong, but they should be examined. Family systems therapists like Murray Bowen developed techniques specifically for tracing how values transmit across generations.
+
+**Run thought experiments**: If no one would know what you achieved, what would you still want to do? If you had unlimited resources, how would you spend your time? If you had one year to live, what would you change? These hypotheticals remove confounding factors. Bronnie Ware's research with dying patients found consistent regret patterns: wishes for more authenticity, less work, better relationships, more courage, more happiness. Deathbed clarity often reveals values that daily life obscures.
+
+**Notice suffering**: What causes you the most distress? Often our deepest values are revealed by what violates them. Anger, frustration, and despair can point to values being thwarted. Acceptance and Commitment Therapy (ACT), developed by Steven Hayes and colleagues, uses pain as a compass pointing toward what matters.
 
 **Identify role models**: Who do you admire? What specifically do you admire about them? The qualities you admire in others often reveal values you haven't acknowledged in yourself.
 
-**Test for resonance**: When someone articulates a value or goal, do you feel resonance (a sense of "yes, that's what I want too")? These resonances can reveal values you haven't explicitly identified.
+**Test for resonance**: When someone articulates a value or goal, do you feel resonance (a sense of "yes, that's what I want too")? These resonances can reveal values you haven't explicitly identified. Eugene Gendlin's "focusing" technique trains people to recognize this felt sense of rightness or wrongness.
 
 None of these methods give you certain knowledge of your "true" values. Values aren't objects waiting to be discovered. They're more like patterns that become clearer through examination. The goal isn't certainty but direction: a sense of what you're trying to align with, knowing it may evolve.
 

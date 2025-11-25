@@ -10,7 +10,7 @@ This section offers no final answers. These questions may not have final answers
 
 **Chapter 11: Getting Better at Getting Better** examines recursive self-improvement: the capacity to improve our capacity for improvement. AI systems can be trained to produce better AI systems. Humans can learn to learn better. Where does this recursion lead? What are its promises and perils?
 
-**Chapter 12: Together** explores collaborative intelligence: what emerges when minds work together. Sarah and ARIA have been doing this throughout the book. Marcus's forum was an attempt at collective intelligence that ultimately failed. What does genuine collaboration look like? What might human-AI partnership become?
+**Chapter 12: Together** explores collaborative intelligence: what emerges when minds work together. Sarah and ARIA have been doing this throughout the book. Marcus's first forum failed, but his third attempt (after learning from two more failures) showed what collective intelligence can become when we design for it deliberately. What does genuine collaboration look like? What might human-AI partnership become?
 
 Our guides reach their final transformations:
 

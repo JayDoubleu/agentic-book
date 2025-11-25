@@ -3,9 +3,9 @@
 ## Overall Book Progress
 
 **Total Target:** 40,000-50,000 words
-**Estimated Word Count:** ~40,000 words
-**Completion:** 100% (THIRD REVISION COMPLETE)
-**Last Updated:** November 2025
+**Estimated Word Count:** ~42,000 words
+**Completion:** 100% (FOURTH REVISION COMPLETE)
+**Last Updated:** November 25, 2025
 
 ## Revision History
 
@@ -20,13 +20,23 @@
 - Added global cultural perspectives
 - ~55,000 words
 
-### Third Revision (Opus 4.5) - CURRENT
+### Third Revision (Opus 4.5)
 - Complete restructure from scratch
 - Reduced to 12 chapters for deeper exploration
 - Three recurring characters introduced
 - 50/50 narrative-to-exposition ratio
 - New central theme
 - ~40,000 words
+
+### Fourth Revision (Opus 4.5 Review Pass) - CURRENT
+- Added research citations to chapters 7-12
+- Strengthened Marcus's character arc (failed attempts, Keisha as bias-checker)
+- Toned down inspirational prose
+- Varied chapter structure
+- Added empirical evidence to consciousness chapter
+- Added novel philosophical contribution (consciousness as interaction property)
+- Deepened character work (Sarah's personal life, Marcus's vulnerability)
+- ~42,000 words
 
 ## Chapter Status (Third Revision)
 
@@ -71,6 +81,29 @@
 4. **Central Theme**: "You are an algorithm that knows it's an algorithm" - reframing algorithmic nature as empowering rather than reductive
 
 5. **Fewer, Deeper Chapters**: 12 chapters instead of 16 allows for richer exploration of each concept
+
+## Key Changes in Fourth Revision (Review Pass)
+
+1. **Research Citations**: Chapters 7-12 now include specific studies and researchers (Libet, Gollwitzer, Tononi, Ericsson, Woolley, etc.) matching the rigor of early chapters
+
+2. **Marcus's Arc Earned**:
+   - Added two failed forum rebuilds before success
+   - Added Keisha as external bias-checker
+   - Added self-awareness of his own role in original collapse
+   - Added vulnerability and near-giving-up moments
+
+3. **Character Depth**:
+   - Sarah: divorce, insomnia, estranged sister, neglected violin, difficult reputation
+   - Marcus: specific teaching focus, physical details, dishes ritual with Denise
+
+4. **Consciousness Chapter Improved**:
+   - Added empirical cases (blindsight, split-brain, locked-in syndrome)
+   - Added novel philosophical contribution: consciousness as property of interactions
+   - Added practical ethics under uncertainty
+
+5. **Tone Grounded**: Removed inspirational overreach, added realistic caveats
+
+6. **Structure Varied**: Chapters 9 and 11 open differently to reduce predictability
 
 ## Style/Tone
 

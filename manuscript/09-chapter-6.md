@@ -171,7 +171,7 @@ Specifically for trauma-based overfitting: careful, supported exposure to trigge
 
 The system lost diversity through self-reference. Recovery requires introducing external input: new perspectives, outside content, fresh voices that don't share the system's existing patterns.
 
-Marcus's forum couldn't be saved; the collapse was too complete. But his new forum was designed with diversity maintenance from the start: external content requirements, incentives for engaging difference, protection for minority perspectives.
+Marcus's first forum couldn't be saved; the collapse was too complete. His first two attempts at rebuilding failed for different reasons. But his third forum was designed with diversity maintenance from the start: external content requirements, incentives for engaging difference, protection for minority perspectives. Crucially, he'd also recruited Keisha as an external check on his own moderation patterns, having learned from analysis that he himself had been part of the training data problem.
 
 **For catastrophic forgetting**:
 

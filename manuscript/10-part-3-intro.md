@@ -24,6 +24,10 @@ ARIA raises unsettling questions about choice and freedom. If it generates more 
 
 The possibility of change doesn't deny everything we've learned about constraint. It asks: Given all these limits, what's still possible? Given all these patterns, what can still shift?
 
-The answer turns out to be: quite a lot. Not easily. Not quickly. Not without understanding how change actually works. But genuinely, within the bounds of reality, more than the deterministic picture suggests.
+A note of caution before we proceed: The computational metaphor has served us well, but it has limits. Humans are not actually computers. We are wet, hormonal, embodied creatures whose cognition is shaped by blood sugar, sleep, social touch, gut bacteria, and countless other factors that have no clear parallel in silicon systems. Our emotions aren't just information processing; they're felt experiences that matter in themselves. Our bodies aren't peripherals; they're part of how we think.
+
+The metaphor illuminates certain patterns, but it can obscure others. When we speak of "training data" and "weights," we're using analogies, not claiming that neurons literally compute gradient descent. The value of the computational frame is that it makes certain patterns visible: patterns of learning, of habit, of failure and change. But humans remain more than any metaphor captures.
+
+With that caveat, the answer to what's possible turns out to be: quite a lot. Not easily. Not quickly. Not without understanding how change actually works. But genuinely, within the bounds of reality, more than the deterministic picture suggests.
 
 Change is possible. This section explores how.
