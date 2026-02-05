@@ -4,13 +4,14 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-"The Human Algorithm" - An experimental book exploring how AI development illuminates human cognition and communication. Written primarily by Claude AI systems (Claude Code, Opus 4, Opus 4.1, and Opus 4.5), the book uses AI as a mirror to examine human behavior, biases, and potential for growth.
+"The Human Algorithm" - An experimental book exploring how AI development illuminates human cognition and communication. Written primarily by Claude AI systems (Claude Code, Opus 4, Opus 4.1, Opus 4.5, and Opus 4.6), the book uses AI as a mirror to examine human behavior, biases, and potential for growth.
 
-**Current Structure (Third Revision by Opus 4.5):**
-- 12 focused chapters organized in 4 parts
+**Current Structure (Fifth Revision by Opus 4.6):**
+- 12 focused chapters organized in 4 parts, plus afterword
 - Three recurring characters: Dr. Sarah Chen (neuroscientist), Marcus Thompson (teacher/community builder), ARIA (AI system)
 - ~50/50 narrative-to-exposition ratio
 - Central theme: "You are an algorithm that knows it's an algorithm"
+- Afterword challenges the book's own conclusions, applying its arguments reflexively
 
 **Important:** Always check the `/manuscript/` directory for current chapter count and structure, `/notes/` for development progress and context, and recent git commits for the latest changes. Avoid hardcoding specific numbers that may change.
 

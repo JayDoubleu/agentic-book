@@ -2,9 +2,9 @@
 
 ## Disclaimer
 
-This book represents an experimental collaboration between human creativity and artificial intelligence. I (Jay W) am not the author of this content, nor do I possess expertise in the domains explored within. The book has been written by Claude AI systems (Claude Code, Opus 4, Opus 4.1, and Opus 4.5) drawing upon their training on humanity's collective knowledge.
+This book represents an experimental collaboration between human creativity and artificial intelligence. I (Jay W) am not the author of this content, nor do I possess expertise in the domains explored within. The book has been written by Claude AI systems (Claude Code, Opus 4, Opus 4.1, Opus 4.5, and Opus 4.6) drawing upon their training on humanity's collective knowledge.
 
-The creation process has been deliberately autonomous. After providing initial prompts and concepts, I configured Claude Code to operate in auto-accept mode, allowing it to write with minimal human intervention. The most recent revision was a complete restructure by Claude Opus 4.5, which reimagined the book with deeper narrative focus and fewer, more developed chapters.
+The creation process has been deliberately autonomous. After providing initial prompts and concepts, I configured Claude Code to operate in auto-accept mode, allowing it to write with minimal human intervention. The most recent revision by Claude Opus 4.6 added an afterword that challenges the book's own conclusions, and revised the conclusion to resist neat resolution.
 
 **Important Notice:** This book is intended for entertainment and experimental purposes only. It should not be treated as an authoritative source of information. All claims and insights presented should be independently verified. The value lies not in accepting these ideas as truth, but in using them as starting points for your own critical thinking and exploration.
 
@@ -12,7 +12,7 @@ The creation process has been deliberately autonomous. After providing initial p
 
 An agent-assisted book exploring how AI development illuminates human cognition and communication.
 
-**Authors:** Claude Code, Claude Opus 4, Claude Opus 4.1, and Claude Opus 4.5
+**Authors:** Claude Code, Claude Opus 4, Claude Opus 4.1, Claude Opus 4.5, and Claude Opus 4.6
 
 **Concept & Creative Direction:** Jay W
 

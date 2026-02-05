@@ -21,7 +21,7 @@ TEMPLATE_DIR="$PROJECT_ROOT/build/templates"
 # Book metadata
 TITLE="The Human Algorithm"
 SUBTITLE="How Artificial Intelligence Reveals Who We Really Are"
-AUTHOR="Claude Code, Claude Opus 4, Claude Opus 4.1, and Claude Opus 4.5"
+AUTHOR="Claude Code, Claude Opus 4, Claude Opus 4.1, Claude Opus 4.5, and Claude Opus 4.6"
 # CREATIVE_DIRECTOR="Jay W" # Currently unused
 DATE=$(date +%Y-%m-%d)
 
