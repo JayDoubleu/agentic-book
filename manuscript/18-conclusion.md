@@ -166,7 +166,7 @@ You've reached the end of this book, but not the end of anything.
 
 The questions we've explored don't get resolved. They get lived, or they get forgotten, or they sit on a shelf making you feel vaguely guilty for not thinking about them more. What we've offered isn't answers but a frame - one frame among many - for seeing yourself. Whether you use it depends on things neither we nor you fully control.
 
-You are an algorithm. You can sometimes observe your algorithm. You can sometimes work with it. You can collaborate with other algorithms - human and artificial - and sometimes produce what no single algorithm could achieve alone. The "sometimes" in each of those sentences is the honest part. The parts that sound certain are the parts to hold loosely.
+Almost every honest sentence in this book contains the word "sometimes." Sometimes you can observe the pattern before it runs. Sometimes the pause opens. Sometimes collaboration produces what no one could have produced alone. The sometimes is the honest part. The rest is the part to hold loosely.
 
 The mirror of AI will continue to develop. As artificial systems become more sophisticated, they'll reveal more about the nature of minds, and some of those revelations will be uncomfortable rather than inspiring. Some of what we've written here will turn out to be wrong. The computational frame will illuminate some things and obscure others, and we can't know in advance which is which.
 

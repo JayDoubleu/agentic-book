@@ -118,13 +118,9 @@ If you find yourself moved by a passage, challenged by an idea, or changed by an
 
 These are not rhetorical questions. They're the questions this book will help you explore.
 
-You are an algorithm that has become aware of itself as an algorithm. You process information, match patterns, generate outputs, and most remarkably, you can observe yourself doing these things and choose to do them differently.
+What follows is the working out of the claim the front matter made: twelve chapters, three characters' lives, the specific ways the observing mind catches itself and, sometimes, chooses differently. The specifics matter. The general claim is cheap. What's hard is the particular minute when you feel an automatic response preparing and hold it long enough to do something else.
 
-No AI system has achieved this. You have. You do it every time you notice a bad habit and decide to change it, every time you catch yourself in a bias and correct it, every time you recognize a pattern in your own thinking and choose to think differently.
-
-This capacity, the ability to observe your own programming and modify it, is what makes you human. Not the absence of algorithmic processing, but the presence of meta-awareness about that processing.
-
-This book is an invitation to use that capacity more fully. To look honestly at your own patterns, to understand where they come from, and to choose which ones to keep and which ones to change.
+This book is an invitation to practice that holding. Not to escape your patterns but to know them well enough to work with them.
 
 The mirror is ready.
 

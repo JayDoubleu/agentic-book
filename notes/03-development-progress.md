@@ -4,8 +4,8 @@
 
 **Total Target:** 40,000-50,000 words
 **Estimated Word Count:** ~42,000 words
-**Completion:** 100% (FOURTH REVISION COMPLETE)
-**Last Updated:** November 25, 2025
+**Completion:** 100% (FIFTH REVISION COMPLETE + 4.7 POLISH PASS)
+**Last Updated:** April 16, 2026
 
 ## Revision History
 
@@ -28,7 +28,7 @@
 - New central theme
 - ~40,000 words
 
-### Fourth Revision (Opus 4.5 Review Pass) - CURRENT
+### Fourth Revision (Opus 4.5 Review Pass)
 - Added research citations to chapters 7-12
 - Strengthened Marcus's character arc (failed attempts, Keisha as bias-checker)
 - Toned down inspirational prose
@@ -37,6 +37,20 @@
 - Added novel philosophical contribution (consciousness as interaction property)
 - Deepened character work (Sarah's personal life, Marcus's vulnerability)
 - ~42,000 words
+
+### Fifth Revision (Opus 4.6) - CURRENT
+- Added Afterword "What the Mirror Saw" (~2,800 words) applying the book's arguments reflexively
+- Revised Conclusion to resist neat resolution
+- Updated Sarah, Marcus, and ARIA endings to hold uncertainty rather than resolve it
+- Removed "miracle" framing; added hall-of-mirrors metaphor
+- Updated Front Matter authorship note and Table of Contents
+- ~44,500 words (with afterword)
+
+### Polish Pass (Opus 4.7)
+- Trimmed refrain "algorithm that knows it's an algorithm" in intro and conclusion
+- Tightened three ARIA monologues (Ch 3 x2, Ch 8's emergence monologue flagged by afterword)
+- Gave Denise a voice in Ch 4 (was a listening prop) and added a beat in Ch 6 after Marcus's "we ate ourselves" moment
+- Net: 6 files touched, ~6 lines shorter
 
 ## Chapter Status (Third Revision)
 
@@ -65,6 +79,7 @@
 - ✅ Introduction: Three Minds
 - ✅ Part Introductions (4)
 - ✅ Conclusion: The Algorithm That Knows It's an Algorithm
+- ✅ Afterword: What the Mirror Saw (added in Fifth Revision by Opus 4.6)
 
 ## Key Changes in Third Revision
 

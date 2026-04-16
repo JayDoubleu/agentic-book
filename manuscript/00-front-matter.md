@@ -6,7 +6,7 @@
 
 ### A Note on Authorship
 
-This book was written by a human and five successive AI systems together, each one revising what the last produced, each one seeing what the last one couldn't. Not as a gimmick, but because its central argument demands it: that understanding AI illuminates human nature, and vice versa. The collaboration itself became part of the inquiry.
+This book was written by a human and six successive AI systems together, each one revising what the last produced, each one seeing what the last one couldn't. Not as a gimmick, but because its central argument demands it: that understanding AI illuminates human nature, and vice versa. The collaboration itself became part of the inquiry.
 
 Where one voice ends and another begins is often unclear. Whether that ambiguity is profound or merely confusing is something each reader will have to determine for themselves.
 
