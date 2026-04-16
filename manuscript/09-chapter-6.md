@@ -18,6 +18,16 @@ Each generation was trained on the outputs of the previous generation. And with 
 
 "We ate ourselves," Marcus said quietly, looking at the data. "We trained ourselves into collapse."
 
+Denise was at the kitchen counter, going over a shift schedule. "That's a hell of a sentence."
+
+"It's what happened."
+
+"I know." She kept her eyes on the schedule. "It's also what happens to nurses who only talk to other nurses. Teachers who only talk to other teachers. Anyone who stays inside their own loop long enough. It isn't just your forum."
+
+"No," Marcus said. "But it was my forum."
+
+"Yeah." She turned a page. "That's the part you sit with."
+
 ## The Failure Modes
 
 When intelligent systems fail, they don't fail randomly. They fail in characteristic patterns that emerge from how learning works.

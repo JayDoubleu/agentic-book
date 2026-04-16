@@ -112,7 +112,17 @@ The implications were striking. Threads longer than about 30 comments effectivel
 
 He also tracked "context collapse": moments when someone reacted to a comment without awareness of earlier context that changed its meaning. These incidents correlated strongly with thread length and emotional intensity. The longer and more heated the thread, the more context collapsed.
 
-"No wonder these discussions went off the rails," Marcus told his wife. "Everyone was arguing about something different. They couldn't see each other's context, so they couldn't see what they were actually disagreeing about."
+"No wonder these discussions went off the rails," Marcus told Denise. "Everyone was arguing about something different. They couldn't see each other's context, so they couldn't see what they were actually disagreeing about."
+
+Denise looked up from her book. "That's basically every fight we've ever had."
+
+"What?"
+
+"You come home carrying whatever's stuck from school. I come home carrying whatever's stuck from the ER. We both think we're talking about who left the milk out. We're not. That's your context collapse. You just made a study of it."
+
+He was quiet for a minute. "Yeah. That's exactly what I'm talking about."
+
+"I know," she said, and went back to her book.
 
 This insight changed how he designed his new forum. He limited thread length, requiring new threads for continued discussion. He built summary features that compressed earlier context into visible form. He created "context check" prompts that asked participants to verify what they thought the other person was saying before responding.
 

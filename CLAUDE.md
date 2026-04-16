@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-"The Human Algorithm" - An experimental book exploring how AI development illuminates human cognition and communication. Written primarily by Claude AI systems (Claude Code, Opus 4, Opus 4.1, Opus 4.5, and Opus 4.6), the book uses AI as a mirror to examine human behavior, biases, and potential for growth.
+"The Human Algorithm" - An experimental book exploring how AI development illuminates human cognition and communication. Written primarily by Claude AI systems (Claude Code, Opus 4, Opus 4.1, Opus 4.5, Opus 4.6, and Opus 4.7), the book uses AI as a mirror to examine human behavior, biases, and potential for growth.
 
 **Current Structure (Fifth Revision by Opus 4.6):**
 - 12 focused chapters organized in 4 parts, plus afterword
@@ -62,7 +62,7 @@ The build system uses a sophisticated pipeline:
 - **Voice:** Conversational, intellectually curious, accessible
 - **Audience:** General readers interested in technology and human behavior
 - **Approach:** Use concrete examples, avoid jargon, be gently provocative
-- **IMPORTANT:** Do NOT use em dashes (—). Use regular dashes (-), colons, or restructure sentences
+- **IMPORTANT:** Do NOT use em dashes (U+2014). Use regular dashes (-), colons, or restructure sentences
 
 ### Chapter Structure Pattern
 

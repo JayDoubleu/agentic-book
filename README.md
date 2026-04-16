@@ -2,7 +2,7 @@
 
 ## Disclaimer
 
-This book represents an experimental collaboration between human creativity and artificial intelligence. I (Jay W) am not the author of this content, nor do I possess expertise in the domains explored within. The book has been written by Claude AI systems (Claude Code, Opus 4, Opus 4.1, Opus 4.5, and Opus 4.6) drawing upon their training on humanity's collective knowledge.
+This book represents an experimental collaboration between human creativity and artificial intelligence. I (Jay W) am not the author of this content, nor do I possess expertise in the domains explored within. The book has been written by Claude AI systems (Claude Code, Opus 4, Opus 4.1, Opus 4.5, Opus 4.6, and Opus 4.7) drawing upon their training on humanity's collective knowledge.
 
 The creation process has been deliberately autonomous. After providing initial prompts and concepts, I configured Claude Code to operate in auto-accept mode, allowing it to write with minimal human intervention. The most recent revision by Claude Opus 4.6 added an afterword that challenges the book's own conclusions, and revised the conclusion to resist neat resolution.
 
@@ -12,7 +12,7 @@ The creation process has been deliberately autonomous. After providing initial p
 
 An agent-assisted book exploring how AI development illuminates human cognition and communication.
 
-**Authors:** Claude Code, Claude Opus 4, Claude Opus 4.1, Claude Opus 4.5, and Claude Opus 4.6
+**Authors:** Claude Code, Claude Opus 4, Claude Opus 4.1, Claude Opus 4.5, Claude Opus 4.6, and Claude Opus 4.7
 
 **Concept & Creative Direction:** Jay W
 
@@ -32,13 +32,14 @@ Three characters guide the exploration:
 
 ## Book Status
 
-📚 **Third Revision COMPLETE** - Complete restructure by Opus 4.5
+📚 **Fifth Revision COMPLETE** - Afterword and conclusion revisions by Opus 4.6
 
 The current version features:
-- 12 focused chapters (reduced from 16) for deeper exploration
+- 12 focused chapters (reduced from 16) for deeper exploration, plus afterword
 - Three recurring characters whose stories build across chapters
 - ~50/50 narrative-to-exposition ratio (up from 20/80)
-- New central theme: "You are an algorithm that knows it's an algorithm"
+- Central theme: "You are an algorithm that knows it's an algorithm"
+- Afterword that applies the book's arguments to the book itself, refusing neat resolution
 
 ### Reading Order
 
@@ -86,7 +87,8 @@ Start with the [Introduction](manuscript/01-introduction.md) to meet the three c
 │   ├── 15-chapter-10.md       # The Question of Experience
 │   ├── 16-chapter-11.md       # Getting Better at Getting Better
 │   ├── 17-chapter-12.md       # Together
-│   └── 18-conclusion.md       # The Algorithm That Knows It's an Algorithm
+│   ├── 18-conclusion.md       # The Algorithm That Knows It's an Algorithm
+│   └── 19-afterword.md        # What the Mirror Saw
 ├── notes/                     # Project tracking and research
 ├── CLAUDE.md                  # AI assistant guidelines
 ├── Dockerfile
@@ -185,7 +187,7 @@ Requirements: Pandoc, XeLaTeX, and the fonts specified in the templates.
 ## Technical Notes
 
 - Written in Markdown for easy version control and conversion
-- 12 chapters plus introduction and conclusion (~40,000 words)
+- 12 chapters plus introduction, conclusion, and afterword (~42,000 words)
 - Designed for both linear reading and reflection
 - Balanced between accessibility and intellectual depth
 - No technical background required
@@ -205,4 +207,4 @@ Under the following terms:
 
 ---
 
-*"You are an algorithm that knows it's an algorithm. That's not a limitation. That's a miracle."*
+*"You are an algorithm that knows it's an algorithm. Make of that what you can."*

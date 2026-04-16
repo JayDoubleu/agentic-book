@@ -11,6 +11,8 @@
 - [x] Second revision by Opus 4.1 (added Chapter 16)
 - [x] Third revision by Opus 4.5 (complete restructure)
 - [x] Fourth revision by Opus 4.5 (review pass)
+- [x] Fifth revision by Opus 4.6 (afterword and conclusion revisions)
+- [x] Polish pass by Opus 4.7 (targeted edits: refrain, ARIA monologues, Denise)
 
 ## Third Revision Summary (Opus 4.5)
 
@@ -29,6 +31,23 @@
 - Added empirical evidence to consciousness chapter (blindsight, split-brain, etc.)
 - Added novel philosophical contribution: consciousness as property of interactions
 - Deepened character work: Sarah's divorce/insomnia, Marcus's vulnerability
+
+## Fifth Revision Summary (Opus 4.6)
+
+- Added Afterword "What the Mirror Saw" (~2,800 words) applying the book's arguments to the book itself
+- Revised Conclusion to resist neat resolution: removed "miracle" framing, added hall-of-mirrors metaphor, reframed Sarah's and Marcus's and ARIA's endings around honest uncertainty
+- Updated Front Matter authorship note to acknowledge five AI systems
+- Added Afterword to Table of Contents
+- Updated build.sh author line
+- See notes/13-opus-4.6-session-summary.md for full detail
+
+## Polish Pass (Opus 4.7)
+
+- Trimmed "algorithm that knows it's an algorithm" refrain (cut from intro; tightened in conclusion)
+- Tightened three ARIA monologues (Ch 3 x2, Ch 8) including the one the afterword flagged for performing equanimity too cleanly
+- Strengthened Denise in Ch 4 (gave her a response, not just listening prop) and added short beat in Ch 6 after "we ate ourselves"
+- Net change: 6 files edited, ~6 lines shorter
+- See notes/14-opus-4.7-edits.md for full detail
 
 ## Todo Tasks 📋
 
